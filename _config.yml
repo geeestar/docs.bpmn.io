@@ -14,7 +14,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/bpmn-io/docs.bpmn.io"
+gh_edit_repository: "https://github.com/geeestar/docs.bpmn.io"
 gh_edit_branch: "master"
 gh_edit_view_mode: "tree"
 
