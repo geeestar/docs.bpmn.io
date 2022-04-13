@@ -1,13 +1,15 @@
 title: bpmn.io Docs
-# remote_theme: sighingnow/jekyll-gitbook.
+remote_theme: just-the-docs/just-the-docs
 
 baseurl: "/"
+
+url: "https://geeestar.github.io/docs.bpmn.io"
 
 logo: "/assets/images/bpmn-io.svg"
 
 aux_links:
   "bpmn.io on GitHub":
-    - "//github.com/bpmn-io"
+    - "//github.com/geeestar/docs.bpmn.io"
 
 footer_content: "<a href=\"https://bpmn.io\"> bpmn.io </a> is built and maintained by <a href=\"https://camunda.com\">Camunda</a> and contributors."
 back_to_top: true
