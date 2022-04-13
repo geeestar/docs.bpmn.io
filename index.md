@@ -9,4 +9,4 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 # bpmn.io Docs
 
-Welcome to bpmn.io documentation.
+Welcome to bpmn.io documentation.不写文档，人共诛之。
