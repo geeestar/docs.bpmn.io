@@ -1,0 +1,2750 @@
+{"0": {
+    "doc": "adaptiveLabelPositioningBehavior",
+    "title": "adaptiveLabelPositioningBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/adaptive-label-positioning-behavior",
+    "relUrl": "/modules/bpmn-modules/adaptive-label-positioning-behavior"
+  },"1": {
+    "doc": "Adding, Customizing and Removing Modules",
+    "title": "Adding, Customizing and Removing Modules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/adding-customizing-removing",
+    "relUrl": "/modules/adding-customizing-removing"
+  },"2": {
+    "doc": "alignElements",
+    "title": "alignElements",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/align-elements",
+    "relUrl": "/modules/common-modules/align-elements"
+  },"3": {
+    "doc": "appendBehavior",
+    "title": "appendBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/append-behavior",
+    "relUrl": "/modules/bpmn-modules/append-behavior"
+  },"4": {
+    "doc": "associationBehavior",
+    "title": "associationBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/association-behavior",
+    "relUrl": "/modules/bpmn-modules/association-behavior"
+  },"5": {
+    "doc": "attachEventBehavior",
+    "title": "attachEventBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/attach-event-behavior",
+    "relUrl": "/modules/bpmn-modules/attach-event-behavior"
+  },"6": {
+    "doc": "attachSupport",
+    "title": "attachSupport",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/attach-support",
+    "relUrl": "/modules/common-modules/attach-support"
+  },"7": {
+    "doc": "attach",
+    "title": "attach",
+    "content": "This event is fired by attachTo API after bpmn-js container is attached to the configured DOM node. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/attach",
+    "relUrl": "/events/bpmn-events/attach"
+  },"8": {
+    "doc": "attach",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('attach', () =&gt; { const editorActions = modeler.get('editorActions'); // the container is attached, let's do something with it editorActions.trigger('selectElements'); // select all elements that are currently on the canvas }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/attach#example-usage",
+    "relUrl": "/events/bpmn-events/attach#example-usage"
+  },"9": {
+    "doc": "attach",
+    "title": "Data",
+    "content": "This event offers no additional data. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/attach#data",
+    "relUrl": "/events/bpmn-events/attach#data"
+  },"10": {
+    "doc": "attachTo",
+    "title": "attachTo",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/attachTo",
+    "relUrl": "/general/api-reference/bpmn-js/attachTo"
+  },"11": {
+    "doc": "autoPlaceSelectionBehavior",
+    "title": "autoPlaceSelectionBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/auto-place-selection-behavior",
+    "relUrl": "/modules/common-modules/auto-place-selection-behavior"
+  },"12": {
+    "doc": "autoPlace",
+    "title": "autoPlace",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/auto-place",
+    "relUrl": "/modules/common-modules/auto-place"
+  },"13": {
+    "doc": "autoResize",
+    "title": "autoResize",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/auto-resize",
+    "relUrl": "/modules/common-modules/auto-resize"
+  },"14": {
+    "doc": "autoScroll",
+    "title": "autoScroll",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/auto-scroll",
+    "relUrl": "/modules/common-modules/auto-scroll"
+  },"15": {
+    "doc": "autoPlace.end",
+    "title": "autoPlace.end",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/autoPlace-end",
+    "relUrl": "/events/common-events/autoPlace-end"
+  },"16": {
+    "doc": "autoPlace.start",
+    "title": "autoPlace.start",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/autoPlace-start",
+    "relUrl": "/events/common-events/autoPlace-start"
+  },"17": {
+    "doc": "autoPlace",
+    "title": "autoPlace",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/autoPlace",
+    "relUrl": "/events/common-events/autoPlace"
+  },"18": {
+    "doc": "baseLayouter",
+    "title": "baseLayouter",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/base-layouter",
+    "relUrl": "/modules/common-modules/base-layouter"
+  },"19": {
+    "doc": "bendpointSnapping",
+    "title": "bendpointSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/bendpoint-snapping",
+    "relUrl": "/modules/common-modules/bendpoint-snapping"
+  },"20": {
+    "doc": "bendpointsMovePreview",
+    "title": "bendpointsMovePreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/bendpoints-move-preview",
+    "relUrl": "/modules/common-modules/bendpoints-move-preview"
+  },"21": {
+    "doc": "bendpointsMove",
+    "title": "bendpointsMove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/bendpoints-move",
+    "relUrl": "/modules/common-modules/bendpoints-move"
+  },"22": {
+    "doc": "bendpoints",
+    "title": "bendpoints",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/bendpoints",
+    "relUrl": "/modules/common-modules/bendpoints"
+  },"23": {
+    "doc": "boundaryEventBehavior",
+    "title": "boundaryEventBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/boundary-event-behavior",
+    "relUrl": "/modules/bpmn-modules/boundary-event-behavior"
+  },"24": {
+    "doc": "bpmnAutoPlace",
+    "title": "bpmnAutoPlace",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-auto-place",
+    "relUrl": "/modules/bpmn-modules/bpmn-auto-place"
+  },"25": {
+    "doc": "bpmnAutoResizeProvider",
+    "title": "bpmnAutoResizeProvider",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-auto-resize-provider",
+    "relUrl": "/modules/bpmn-modules/bpmn-auto-resize-provider"
+  },"26": {
+    "doc": "bpmnAutoResize",
+    "title": "bpmnAutoResize",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-auto-resize",
+    "relUrl": "/modules/bpmn-modules/bpmn-auto-resize"
+  },"27": {
+    "doc": "bpmnCopyPaste",
+    "title": "bpmnCopyPaste",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-copy-paste",
+    "relUrl": "/modules/bpmn-modules/bpmn-copy-paste"
+  },"28": {
+    "doc": "bpmnDiOrdering",
+    "title": "bpmnDiOrdering",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-di-ordering",
+    "relUrl": "/modules/bpmn-modules/bpmn-di-ordering"
+  },"29": {
+    "doc": "bpmnDistributeElements",
+    "title": "bpmnDistributeElements",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-distribute-elements",
+    "relUrl": "/modules/bpmn-modules/bpmn-distribute-elements"
+  },"30": {
+    "doc": "bpmnFactory",
+    "title": "bpmnFactory",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-factory",
+    "relUrl": "/modules/bpmn-modules/bpmn-factory"
+  },"31": {
+    "doc": "bpmnGridSnapping",
+    "title": "bpmnGridSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-grid-snapping",
+    "relUrl": "/modules/bpmn-modules/bpmn-grid-snapping"
+  },"32": {
+    "doc": "bpmnImporter",
+    "title": "bpmnImporter",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-importer",
+    "relUrl": "/modules/bpmn-modules/bpmn-importer"
+  },"33": {
+    "doc": "bpmnInteractionEvents",
+    "title": "bpmnInteractionEvents",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-interaction-events",
+    "relUrl": "/modules/bpmn-modules/bpmn-interaction-events"
+  },"34": {
+    "doc": "bpmnOrderingProvider",
+    "title": "bpmnOrderingProvider",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-ordering-provider",
+    "relUrl": "/modules/bpmn-modules/bpmn-ordering-provider"
+  },"35": {
+    "doc": "BPMN Properties",
+    "title": "BPMN Properties",
+    "content": "This example shows how to use bpmn-js to access BPMN properties behind certain diagram elements. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bpmn-properties",
+    "relUrl": "/examples/bpmn/bpmn-properties"
+  },"36": {
+    "doc": "BPMN Properties",
+    "title": "About",
+    "content": "Each diagram element stores a reference to the underlying BPMN element via the businessObject property. The business object is the actual element that gets imported from BPMN 2.0 XML and serialized during export. Use the business object to read and write BPMN specific properties. Here’s the repository for this example. Reading BPMN Properties . To read BPMN properties, obtain a reference to a diagram elements business object. var elementRegistry = bpmnJS.get('elementRegistry'); var sequenceFlowElement = elementRegistry.get('SequenceFlow_1'), sequenceFlow = sequenceFlowElement.businessObject; sequenceFlow.name; // 'YES' sequenceFlow.conditionExpression; // ModdleElement { $type: 'bpmn:FormalExpression', ... } . Writing BPMN properties . To write a BPMN property, simply set it on the business object. Check out the bpmn.json meta-model descriptor to learn about BPMN types, their properties and relationships. var moddle = bpmnJS.get('moddle'); // create a BPMN element that can be serialized to XML during export var newCondition = moddle.create('bpmn:FormalExpression', { body: '${ value &gt; 100 }' }); // write property, no undo support sequenceFlow.conditionExpression = newCondition; . In order to get undo/redo support you need to dispatch the property update through our modeling stack: . var modeling = bpmnJS.get('modeling'); modeling.updateProperties(sequenceFlowElement, { conditionExpression: newCondition }); . Implement your own CommandHandler to perform more advanced atomic updates. Both ways will eventually serialize the condition to XML. To learn more, check out an example diagram and the accompanying test cases. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bpmn-properties#about",
+    "relUrl": "/examples/bpmn/bpmn-properties#about"
+  },"37": {
+    "doc": "BPMN Properties",
+    "title": "Building",
+    "content": "One time installation of all dependencies via npm: . npm install . Execute the test suite to spin up the example in your browser: . npm run dev . Go to localhost:9876/debug.html to inspect the example in your Browser. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bpmn-properties#building",
+    "relUrl": "/examples/bpmn/bpmn-properties#building"
+  },"38": {
+    "doc": "bpmnRenderer",
+    "title": "bpmnRenderer",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-renderer",
+    "relUrl": "/modules/bpmn-modules/bpmn-renderer"
+  },"39": {
+    "doc": "bpmnReplacePreview",
+    "title": "bpmnReplacePreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-replace-preview",
+    "relUrl": "/modules/bpmn-modules/bpmn-replace-preview"
+  },"40": {
+    "doc": "bpmnReplace",
+    "title": "bpmnReplace",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-replace",
+    "relUrl": "/modules/bpmn-modules/bpmn-replace"
+  },"41": {
+    "doc": "bpmnRules",
+    "title": "bpmnRules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-rules",
+    "relUrl": "/modules/bpmn-modules/bpmn-rules"
+  },"42": {
+    "doc": "bpmnSearch",
+    "title": "bpmnSearch",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-search",
+    "relUrl": "/modules/bpmn-modules/bpmn-search"
+  },"43": {
+    "doc": "bpmnUpdater",
+    "title": "bpmnUpdater",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/bpmn-updater",
+    "relUrl": "/modules/bpmn-modules/bpmn-updater"
+  },"44": {
+    "doc": "bpmnElement.added",
+    "title": "bpmnElement.added",
+    "content": "This event is fired by bpmnImporter API after an element was added to the canvas. This allows users to listen to whenever a BPMN 2.0 element got added during the import. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/bpmnElement-added",
+    "relUrl": "/events/bpmn-events/bpmnElement-added"
+  },"45": {
+    "doc": "bpmnElement.added",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('bpmnElement.added', (data) =&gt; { const { element } = data; // this is the element that was added to the canvas if(element.businessObject.$type === 'bpmn:StartEvent') { console.log('Start event was imported!'); // notify whenever a specific element was imported } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/bpmnElement-added#example-usage",
+    "relUrl": "/events/bpmn-events/bpmnElement-added#example-usage"
+  },"46": {
+    "doc": "bpmnElement.added",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | element: ModdleElement The element that is added to the canvas during import. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/bpmnElement-added#data",
+    "relUrl": "/events/bpmn-events/bpmnElement-added#data"
+  },"47": {
+    "doc": "Bundling",
+    "title": "Bundling",
+    "content": "This example showcases how add and bundle bpmn-js along with a node-style web application using Webpack. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bundling",
+    "relUrl": "/examples/bpmn/bundling"
+  },"48": {
+    "doc": "Bundling",
+    "title": "About",
+    "content": "This example uses bpmn-js to embed the pizza collaboration diagram into a web application. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bundling#about",
+    "relUrl": "/examples/bpmn/bundling#about"
+  },"49": {
+    "doc": "Bundling",
+    "title": "Usage Summary",
+    "content": "Install bpmn-js via npm . npm install --save bpmn-js . Use it in your application . import BpmnViewer from 'bpmn-js'; var viewer = new BpmnViewer({ container: '#canvas' }); viewer.importXML(pizzaDiagram).then(function(result) { const { warnings } = result; console.log('success !', warnings); viewer.get('canvas').zoom('fit-viewport'); }).catch(function(err) { const { warnings, message } = err; console.log('something went wrong:', warnings, message); }); . Bundle the src/app.js file for the browser with Webpack: . webpack ./src/app.js -o public/app.bundled.js --mode development . To learn about more bundling options, checkout the webpack-cli documentation. Note: You may use another ES module aware bundler such as Rollup, too. Browserify may also be used but must be properly configured via a global babelify transform. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bundling#usage-summary",
+    "relUrl": "/examples/bpmn/bundling#usage-summary"
+  },"50": {
+    "doc": "Bundling",
+    "title": "Building the Example",
+    "content": "Install the project dependencies via . npm install . To create the sample distribution in the public folder run . npm run all . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/bundling#building-the-example",
+    "relUrl": "/examples/bpmn/bundling#building-the-example"
+  },"51": {
+    "doc": "canvas.destroy",
+    "title": "canvas.destroy",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/canvas-destroy",
+    "relUrl": "/events/common-events/canvas-destroy"
+  },"52": {
+    "doc": "canvas.init",
+    "title": "canvas.init",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/canvas-init",
+    "relUrl": "/events/common-events/canvas-init"
+  },"53": {
+    "doc": "canvas.resized",
+    "title": "canvas.resized",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/canvas-resized",
+    "relUrl": "/events/common-events/canvas-resized"
+  },"54": {
+    "doc": "canvas.updateRoot",
+    "title": "canvas.updateRoot",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/canvas-updateRoot",
+    "relUrl": "/commands/bpmn-commands/canvas-updateRoot"
+  },"55": {
+    "doc": "canvas.viewbox.changed",
+    "title": "canvas.viewbox.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/canvas-viewbox-changed",
+    "relUrl": "/events/common-events/canvas-viewbox-changed"
+  },"56": {
+    "doc": "canvas.viewbox.changing",
+    "title": "canvas.viewbox.changing",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/canvas-viewbox-changing",
+    "relUrl": "/events/common-events/canvas-viewbox-changing"
+  },"57": {
+    "doc": "canvas",
+    "title": "canvas",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/canvas",
+    "relUrl": "/modules/common-modules/canvas"
+  },"58": {
+    "doc": "changeSupport",
+    "title": "changeSupport",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/change-support",
+    "relUrl": "/modules/common-modules/change-support"
+  },"59": {
+    "doc": "clear",
+    "title": "clear",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/clear",
+    "relUrl": "/general/api-reference/bpmn-js/clear"
+  },"60": {
+    "doc": "clear",
+    "title": "clear",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/common/clear",
+    "relUrl": "/general/api-reference/common/clear"
+  },"61": {
+    "doc": "clipboard",
+    "title": "clipboard",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/clipboard",
+    "relUrl": "/modules/common-modules/clipboard"
+  },"62": {
+    "doc": "Colors",
+    "title": "Colors",
+    "content": "This example shows how to add colors to BPMN diagrams rendered with bpmn-js. Try out. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/colors",
+    "relUrl": "/examples/bpmn/colors"
+  },"63": {
+    "doc": "Colors",
+    "title": "About",
+    "content": "The example shows a number of different approaches how to add colors to your BPMN diagrams. The following options exist: . | Color via Overlay | Color via BPMN 2.0 Extension | Color via Marker + CSS Styling | Color via Custom Renderer | . See below for details on each of the approaches. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/colors#about",
+    "relUrl": "/examples/bpmn/colors#about"
+  },"64": {
+    "doc": "Colors",
+    "title": "Usage Summary",
+    "content": "Include bpmn-js and set it up pre-packaged or via npm: . var diagramXML = 'put your BPMN 2.0 process XML here'; var viewer = new BpmnJS({ container: '#diagram' }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/colors#usage-summary",
+    "relUrl": "/examples/bpmn/colors#usage-summary"
+  },"65": {
+    "doc": "Colors",
+    "title": "Adding Colors",
+    "content": "Option 1: Color via Overlay . This example assumes you have jQuery installed. Add a CSS snippet like the following to your HTML file: .highlight-overlay { background-color: green; /* color elements as green */ opacity: 0.4; pointer-events: none; /* no pointer events, allows clicking through onto the element */ } . Now, attach a highlight overlay with the given class to certain elements: . await viewer.importXML(diagramXML); var overlays = viewer.get('overlays'); var elementRegistry = viewer.get('elementRegistry'); var shape = elementRegistry.get('UserTask_1'); var $overlayHtml = $('&lt;div class=\"highlight-overlay\"&gt;') .css({ width: shape.width, height: shape.height }); overlays.add('UserTask_1', { position: { top: -5, left: -5 }, html: $overlayHtml }); . Option 2: Color via BPMN 2.0 Extension . If you would like colors to be part of your BPMN 2.0 diagrams you may use our built-in BPMN 2.0 color extension. To add colors, pick up the modeler and use the Modeling#setColor API to assign stroke and fill to BPMN elements: . var bpmnModeler = ...; var modeling = bpmnModeler.get('modeling'); var elementsToColor = [ element1, element2 ]; modeling.setColor(elementsToColor, { stroke: 'green', fill: 'yellow' }); . The colors are persisted in the BPMN 2.0 diagram and shown by the BPMN viewer, too. Read this blog post for more details on this feature. Option 3: Color via Marker + CSS Styling . Add a CSS snippet like the following to your HTML file: .highlight:not(.djs-connection) .djs-visual &gt; :nth-child(1) { fill: green !important; /* color elements as green */ } . The snippet ensures that elements with the highlight class get a SVG fill of green. After import, add the highlight class as an element marker to the every element you would like to see colored in green: . await viewer.importXML(diagramXML); var canvas = viewer.get('canvas'); canvas.addMarker('UserTask_1', 'highlight'); . Option 4: Color via Custom Renderer . Checkout bpmn-js-task-priorities for an example that provides a custom renderer to color shapes and connections dynamically. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/colors#adding-colors",
+    "relUrl": "/examples/bpmn/colors#adding-colors"
+  },"66": {
+    "doc": "Colors",
+    "title": "Run this Example",
+    "content": "Download the example diagram and open it in a web browser. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/colors#run-this-example",
+    "relUrl": "/examples/bpmn/colors#run-this-example"
+  },"67": {
+    "doc": "commandStack",
+    "title": "commandStack",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/command-stack",
+    "relUrl": "/modules/common-modules/command-stack"
+  },"68": {
+    "doc": "Commenting",
+    "title": "Commenting",
+    "content": "bpmn-js is the BPMN 2.0 diagram modeling and rendering toolkit that powers bpmn.io. This example showcases how to build a simple discussion app based on bpmn-js and the bpmn-js-embedded-comments extension. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/commenting",
+    "relUrl": "/examples/bpmn/commenting"
+  },"69": {
+    "doc": "Commenting",
+    "title": "About",
+    "content": "This example uses bpmn-js to embed the pizza collaboration diagram into a web application and add the ability to put comments on individual tasks. The comments are added to an elements &lt;bpmn:documentation&gt; tag and may be downloaded along with the element. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/commenting#about",
+    "relUrl": "/examples/bpmn/commenting#about"
+  },"70": {
+    "doc": "Commenting",
+    "title": "Building",
+    "content": "One time installation of all dependencies via npm: . npm install . Building the app into the dist directory and opening it in a browser: . npm run dev . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/commenting#building",
+    "relUrl": "/examples/bpmn/commenting#building"
+  },"71": {
+    "doc": "connectPreview",
+    "title": "connectPreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/connect-preview",
+    "relUrl": "/modules/common-modules/connect-preview"
+  },"72": {
+    "doc": "connectSnapping",
+    "title": "connectSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/connect-snapping",
+    "relUrl": "/modules/bpmn-modules/connect-snapping"
+  },"73": {
+    "doc": "connect",
+    "title": "connect",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/connect",
+    "relUrl": "/modules/common-modules/connect"
+  },"74": {
+    "doc": "connection.add",
+    "title": "connection.add",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/connection-add",
+    "relUrl": "/events/common-events/connection-add"
+  },"75": {
+    "doc": "connection.added",
+    "title": "connection.added",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/connection-added",
+    "relUrl": "/events/common-events/connection-added"
+  },"76": {
+    "doc": "connection.changed",
+    "title": "connection.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/connection-changed",
+    "relUrl": "/events/common-events/connection-changed"
+  },"77": {
+    "doc": "connection.create",
+    "title": "connection.create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/connection-create",
+    "relUrl": "/commands/common-commands/connection-create"
+  },"78": {
+    "doc": "connection.delete",
+    "title": "connection.delete",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/connection-delete",
+    "relUrl": "/commands/common-commands/connection-delete"
+  },"79": {
+    "doc": "connectionDocking",
+    "title": "connectionDocking",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/connection-docking",
+    "relUrl": "/modules/bpmn-modules/connection-docking"
+  },"80": {
+    "doc": "connection.layout",
+    "title": "connection.layout",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/connection-layout",
+    "relUrl": "/commands/common-commands/connection-layout"
+  },"81": {
+    "doc": "connection.move",
+    "title": "connection.move",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/connection-move",
+    "relUrl": "/commands/common-commands/connection-move"
+  },"82": {
+    "doc": "connectionPreview",
+    "title": "connectionPreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/connection-preview",
+    "relUrl": "/modules/common-modules/connection-preview"
+  },"83": {
+    "doc": "connection.reconnect",
+    "title": "connection.reconnect",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/connection-reconnect",
+    "relUrl": "/commands/common-commands/connection-reconnect"
+  },"84": {
+    "doc": "connection.remove",
+    "title": "connection.remove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/connection-remove",
+    "relUrl": "/events/common-events/connection-remove"
+  },"85": {
+    "doc": "connection.removed",
+    "title": "connection.removed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/connection-removed",
+    "relUrl": "/events/common-events/connection-removed"
+  },"86": {
+    "doc": "connectionSegmentMove",
+    "title": "connectionSegmentMove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/connection-segment-move",
+    "relUrl": "/modules/common-modules/connection-segment-move"
+  },"87": {
+    "doc": "connection.updateWaypoints",
+    "title": "connection.updateWaypoints",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/connection-updateWaypoints",
+    "relUrl": "/commands/common-commands/connection-updateWaypoints"
+  },"88": {
+    "doc": "contextPadProvider",
+    "title": "contextPadProvider",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/context-pad-provider",
+    "relUrl": "/modules/bpmn-modules/context-pad-provider"
+  },"89": {
+    "doc": "contextPad",
+    "title": "contextPad",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/context-pad",
+    "relUrl": "/modules/common-modules/context-pad"
+  },"90": {
+    "doc": "Context Pad",
+    "title": "Context Pad",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/components/context-pad",
+    "relUrl": "/general/components/context-pad"
+  },"91": {
+    "doc": "contextPad.close",
+    "title": "contextPad.close",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/contextPad-close",
+    "relUrl": "/events/common-events/contextPad-close"
+  },"92": {
+    "doc": "contextPad.create",
+    "title": "contextPad.create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/contextPad-create",
+    "relUrl": "/events/common-events/contextPad-create"
+  },"93": {
+    "doc": "contextPad.getProviders",
+    "title": "contextPad.getProviders",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/contextPad-getProviders",
+    "relUrl": "/events/common-events/contextPad-getProviders"
+  },"94": {
+    "doc": "contextPad.open",
+    "title": "contextPad.open",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/contextPad-open",
+    "relUrl": "/events/common-events/contextPad-open"
+  },"95": {
+    "doc": "copyPaste",
+    "title": "copyPaste",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/copy-paste",
+    "relUrl": "/modules/common-modules/copy-paste"
+  },"96": {
+    "doc": "copyPaste.canCopyElements",
+    "title": "copyPaste.canCopyElements",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/copyPaste-canCopyElements",
+    "relUrl": "/events/common-events/copyPaste-canCopyElements"
+  },"97": {
+    "doc": "copyPaste.copyElement",
+    "title": "copyPaste.copyElement",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/copyPaste-copyElement",
+    "relUrl": "/events/common-events/copyPaste-copyElement"
+  },"98": {
+    "doc": "copyPaste.elementsCopied",
+    "title": "copyPaste.elementsCopied",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/copyPaste-elementsCopied",
+    "relUrl": "/events/common-events/copyPaste-elementsCopied"
+  },"99": {
+    "doc": "copyPaste.pasteElement",
+    "title": "copyPaste.pasteElement",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/copyPaste-pasteElement",
+    "relUrl": "/events/common-events/copyPaste-pasteElement"
+  },"100": {
+    "doc": "copyPaste.pasteElements",
+    "title": "copyPaste.pasteElements",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/copyPaste-pasteElements",
+    "relUrl": "/events/common-events/copyPaste-pasteElements"
+  },"101": {
+    "doc": "createBehavior",
+    "title": "createBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/create-behavior",
+    "relUrl": "/modules/bpmn-modules/create-behavior"
+  },"102": {
+    "doc": "createDataObjectBehavior",
+    "title": "createDataObjectBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/create-data-object-behavior",
+    "relUrl": "/modules/bpmn-modules/create-data-object-behavior"
+  },"103": {
+    "doc": "createMoveSnapping",
+    "title": "createMoveSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/create-move-snapping",
+    "relUrl": "/modules/bpmn-modules/create-move-snapping"
+  },"104": {
+    "doc": "createMoveSnapping",
+    "title": "createMoveSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/create-move-snapping",
+    "relUrl": "/modules/common-modules/create-move-snapping"
+  },"105": {
+    "doc": "createParticipantBehavior",
+    "title": "createParticipantBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/create-participant-behavior",
+    "relUrl": "/modules/bpmn-modules/create-participant-behavior"
+  },"106": {
+    "doc": "createPreview",
+    "title": "createPreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/create-preview",
+    "relUrl": "/modules/common-modules/create-preview"
+  },"107": {
+    "doc": "create",
+    "title": "create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/create",
+    "relUrl": "/modules/common-modules/create"
+  },"108": {
+    "doc": "Custom Bundle",
+    "title": "Custom Bundle",
+    "content": "How to role a customized, pre-packaged version of bpmn-js. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-bundle",
+    "relUrl": "/examples/bpmn/custom-bundle"
+  },"109": {
+    "doc": "Custom Bundle",
+    "title": "About",
+    "content": "This example extends the bpmn-js viewer via custom modules and shows how Rollup can be used to generate a UMD bundle of that custom viewer. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-bundle#about",
+    "relUrl": "/examples/bpmn/custom-bundle#about"
+  },"110": {
+    "doc": "Custom Bundle",
+    "title": "In a Nutshell",
+    "content": "Create a sub-class of Viewer or Modeler, depending on which variant you would like to extend: . import inherits from 'inherits'; import Viewer from 'bpmn-js/lib/Viewer'; import ZoomScrollModule from 'diagram-js/lib/navigation/zoomscroll'; import MoveCanvasModule from 'diagram-js/lib/navigation/movecanvas'; import CustomLoggingModule from './features/logging'; /** * A viewer that includes mouse navigation and other goodies. * * @param {Object} options */ function CustomViewer(options) { Viewer.call(this, options); } inherits(CustomViewer, Viewer); module.exports = CustomViewer; . Add additional modules to your custom bpmn-js prototype: . CustomViewer.prototype._customModules = [ ZoomScrollModule, MoveCanvasModule, CustomLoggingModule ]; CustomViewer.prototype._modules = [].concat( Viewer.prototype._modules, CustomViewer.prototype._customModules ); . Package the file as UMD for the browser, using a module bundler such as Rollup, Browserify or Webpack. We’re using rollup to bundle the files based on this configuration: . rollup -c . Include the bundle in your webpage, as you would include our pre-package distributions: . &lt;script src=\"dist/custom-viewer.bundled.js\"&gt;&lt;/script&gt; &lt;script&gt; var viewer = new CustomBpmnJS({ container: '#canvas' }); // ... &lt;/script&gt; . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-bundle#in-a-nutshell",
+    "relUrl": "/examples/bpmn/custom-bundle#in-a-nutshell"
+  },"111": {
+    "doc": "Custom Bundle",
+    "title": "Build this Example",
+    "content": "npm install npm run all . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-bundle#build-this-example",
+    "relUrl": "/examples/bpmn/custom-bundle#build-this-example"
+  },"112": {
+    "doc": "Custom Elements",
+    "title": "Custom Elements",
+    "content": "A powerful feature provided by bpmn-js is the ability to create custom elements. Custom elements are ordinary BPMN 2.0 elements with domain-specific data, look, and feel. Use cases for such elements include: . | show certain elements in a distinct way | restrict rules where a user can place elements on the diagram | add data related to performance analytics such as KPI targets | display hidden details directly on the diagram | attach technical information related to model execution | . Warning: If your data has a different life-cycle (for example runtime data) or is stored outside the BPMN 2.0 diagram you should consider alternative extension mechanisms such as overlays. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements",
+    "relUrl": "/examples/bpmn/custom-elements"
+  },"113": {
+    "doc": "Custom Elements",
+    "title": "Implementation Techniques",
+    "content": "This page features a number of key techniques to build custom elements: . | Read custom data from a BPMN 2.0 file | Render certain elements differently | Create custom editor controls | . Additional topics, not directly featured here include: . | Define custom modeling rules | Create a properties panel for custom data editing | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements#implementation-techniques",
+    "relUrl": "/examples/bpmn/custom-elements#implementation-techniques"
+  },"114": {
+    "doc": "Custom Elements",
+    "title": "Read BPMN 2.0 Extensions",
+    "content": "You can use the BPMN 2.0 extension mechanism to add extension attributes and elements in a BPMN 2.0 compatible way. You can find an example of this approach in our model extension example. It creates a model extension that allows you to read, modify and write BPMN 2.0 diagrams that contain extension attributes and elements. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements#read-bpmn-20-extensions",
+    "relUrl": "/examples/bpmn/custom-elements#read-bpmn-20-extensions"
+  },"115": {
+    "doc": "Custom Elements",
+    "title": "Customize Rendering",
+    "content": "If you want to draw certain BPMN 2.0 elements differently, you can create a custom renderer. Usually, you would want to do this to be able to distinct custom elements from other elements. There is an example in our custom rendering example. It renders bpmn:Task and bpmn:Event elements differently. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements#customize-rendering",
+    "relUrl": "/examples/bpmn/custom-elements#customize-rendering"
+  },"116": {
+    "doc": "Custom Elements",
+    "title": "Customize Editor Controls",
+    "content": "You can add custom controls so that users can create custom elements through palette and context pad. You can find an example in our custom controls example. It adds controls that allow you to create bpmn:ServiceTask elements through both, the palette and the context pad. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements#customize-editor-controls",
+    "relUrl": "/examples/bpmn/custom-elements#customize-editor-controls"
+  },"117": {
+    "doc": "Custom Elements",
+    "title": "Custom Elements, Complete Demo",
+    "content": "The custom elements example combines all the techniques showcased in the previous sections. It creates a model extension, custom rendering, and custom controls. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements#custom-elements-complete-demo",
+    "relUrl": "/examples/bpmn/custom-elements#custom-elements-complete-demo"
+  },"118": {
+    "doc": "Custom Elements",
+    "title": "There Is More",
+    "content": "Of course, you can go even further. Have a look at the following examples: . | Custom rules - Customize diagram modeling rules. | Custom properties panel - Create a properties panel to allow editing of custom data | bpmn-js-properties-panel extension - Extend our properties panel to edit custom element properties. | Custom shapes - Add any shape to a BPMN 2.0 diagram. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-elements#there-is-more",
+    "relUrl": "/examples/bpmn/custom-elements#there-is-more"
+  },"119": {
+    "doc": "Custom Meta Model",
+    "title": "Custom Meta Model",
+    "content": "This example showcases how to provide a meta model extensions for BPMN 2.0 to bpmn-js. This allows a BPMN viewer / modeler instance to read, create and write domain specific data from and to BPMN 2.0 files. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-meta-model",
+    "relUrl": "/examples/bpmn/custom-meta-model"
+  },"120": {
+    "doc": "Custom Meta Model",
+    "title": "About",
+    "content": "This example allows bpmn-js to attach review data in form of &lt;qa:analysis /&gt; tags to BPMN 2.0 diagrams. It captures the suitability of process elements according to current requirements and can be edited through a BPMN 2.0 viewer. An example diagram containing the custom data is shown below. &lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt; &lt;bpmn2:definitions xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:bpmn2=\"http://www.omg.org/spec/BPMN/20100524/MODEL\" xmlns:bpmndi=\"http://www.omg.org/spec/BPMN/20100524/DI\" xmlns:dc=\"http://www.omg.org/spec/DD/20100524/DC\" xmlns:di=\"http://www.omg.org/spec/DD/20100524/DI\" xmlns:qa=\"http://some-company/schema/bpmn/qa\" targetNamespace=\"http://activiti.org/bpmn\" id=\"ErrorHandling\"&gt; &lt;bpmn2:process id=\"Process_1\"&gt; &lt;bpmn2:task id=\"Task_1\" name=\"Examine Situation\" qa:suitable=\"0.7\"&gt; &lt;bpmn2:outgoing&gt;SequenceFlow_1&lt;/bpmn2:outgoing&gt; &lt;bpmn2:extensionElements&gt; &lt;qa:analysisDetails lastChecked=\"2015-01-20\" nextCheck=\"2015-07-15\"&gt; &lt;qa:comment author=\"Klaus\"&gt; Our operators always have a hard time to figure out, what they need to do here. &lt;/qa:comment&gt; &lt;qa:comment author=\"Walter\"&gt; I believe this can be split up in a number of activities and partly automated. &lt;/qa:comment&gt; &lt;/qa:analysisDetails&gt; &lt;/bpmn2:extensionElements&gt; &lt;/bpmn2:task&gt; ... &lt;/bpmn2:process&gt; &lt;bpmndi:BPMNDiagram id=\"BPMNDiagram_1\"&gt; ... &lt;/bpmndi:BPMNDiagram&gt; &lt;/bpmn2:definitions&gt; . See the complete diagram. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-meta-model#about",
+    "relUrl": "/examples/bpmn/custom-meta-model#about"
+  },"121": {
+    "doc": "Custom Meta Model",
+    "title": "Usage",
+    "content": "This section leads you through the necessary steps to extend bpmn-js with a custom meta-model. Building a meta-model extension . An extension to BPMN 2.0 must be defined in a JSON file, as shown here. { \"name\": \"QualityAssurance\", \"uri\": \"http://some-company/schema/bpmn/qa\", \"prefix\": \"qa\", \"xml\": { \"tagAlias\": \"lowerCase\" }, \"types\": [ { \"name\": \"AnalyzedNode\", \"extends\": [ \"bpmn:FlowNode\" ], \"properties\": [ { \"name\": \"suitable\", \"isAttr\": true, \"type\": \"Float\" } ] }, { \"name\": \"AnalysisDetails\", \"superClass\": [ \"Element\" ], \"properties\": [ { \"name\": \"lastChecked\", \"isAttr\": true, \"type\": \"String\" }, { \"name\": \"nextCheck\", \"isAttr\": true, \"type\": \"String\" }, { \"name\": \"comments\", \"isMany\": true, \"type\": \"Comment\" } ] }, ... ], ... } . A few things are worth noting here: . | You can provide extensions for existing types via the extends: [ \"list\", \"of\", \"types\" ] property. | Custom types that should plug into BPMN 2.0 &lt;extensionElements /&gt; feature must be subclass Element | . To use the extension in a bpmn-js powered viewer we need to configure it during viewer instantiation. Configuring bpmn-js . The extension needs to be passed over to a bpmn-js instance. var qaPackage = require('path/to/qaPackage.json'); var BpmnJS = require('bpmn-js'); var viewer = new BpmnJS({ moddleExtensions: { qa: qaPackage } }); . It is passed over to bpmn-moddle for model creation. Accessing the model data . The bpmn-viewer is now aware of your meta model extension. You may search through an elements &lt;bpmn:extensionElements /&gt; list for it by type and extract the required information from it. function getExtension(element, type) { if (!element.extensionElements) { return null; } return element.extensionElements.filter(function(e) { return e.$instanceOf(type); })[0]; } . You may now register a click listener that shows the analytical data attached to a bpmn element: . viewer.on('element.click', function(event) { var element = event.element, moddle = viewer.get('moddle'), // the underlaying BPMN 2.0 element businessObject = element.businessObject, analysis, score, message; analysis = getExtension(businessObject, 'qa:AnalysisDetails'); score = businessObject.suitable; if (isNaN(score)) { message = 'No suitability score yet, dblclick to assign one'; } else { message = 'Diagram element has a suitability score of ' + score; } if (analysis) { message += '\\n Last analyzed at ' + analysis.lastChecked; } window.alert(message); }); . Alternatively you can also create a new instance of your extension defined data types: . viewer.on('element.click', function(event) { ... analysis = getExtension(businessObject, 'qa:AnalysisDetails'); var result = parseFloat(window.prompt('assign a new suitability score to ' + businessObject.id), 10); if (isNaN(result)) { return; } businessObject.suitable = result; if (!analysis) { analysis = moddle.create('qa:AnalysisDetails'); if (!businessObject.extensionElements) { businessObject.extensionElements = moddle.create('bpmn:ExtensionElements'); } businessObject.extensionElements.get('values').push(analysis); } analysis.lastChecked = new Date().toString(); }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-meta-model#usage",
+    "relUrl": "/examples/bpmn/custom-meta-model#usage"
+  },"122": {
+    "doc": "Custom Meta Model",
+    "title": "Build the Example",
+    "content": "First time setup: . npm install . Building the application into the dist directory: . grunt . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-meta-model#build-the-example",
+    "relUrl": "/examples/bpmn/custom-meta-model#build-the-example"
+  },"123": {
+    "doc": "Custom Modeling Rules",
+    "title": "Custom Modeling Rules",
+    "content": "This example shows how to implement custom modeling rules in bpmn-js. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-modeling-rules",
+    "relUrl": "/examples/bpmn/custom-modeling-rules"
+  },"124": {
+    "doc": "Custom Modeling Rules",
+    "title": "About",
+    "content": "This example extends the bpmn-js modeler with custom modeling rules. The rules are added via a custom rules provider. The provider hooks into the rule evaluation for shape.create and restricts it to elements annotated with a vendor:allowDrop extension attribute. this.addRule('shape.create', function(context) { var shape = context.shape, target = context.parent; var shapeBo = shape.businessObject, targetBo = target.businessObject; var allowDrop = targetBo.get('vendor:allowDrop'); if (!allowDrop || !shapeBo.$instanceOf(allowDrop)) { return false; } }); . Using these custom rules users are able to insert tasks on the following sequence flow: . &lt;bpmn:sequenceFlow id=\"SequenceFlow_1\" vendor:allowDrop=\"bpmn:Task\" /&gt; . They would not be able to insert anything if the allowDrop annotation is missing: . &lt;bpmn:sequenceFlow id=\"SequenceFlow_1\"/&gt; . To learn more, check out an example diagram and the accompanying test cases. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-modeling-rules#about",
+    "relUrl": "/examples/bpmn/custom-modeling-rules#about"
+  },"125": {
+    "doc": "Custom Modeling Rules",
+    "title": "Building",
+    "content": "One time installation of all dependencies via npm: . npm install . Execute the test suite to spin up the example in your browser: . npm run dev . Go to localhost:9876/debug.html to inspect the example in your Browser. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/custom-modeling-rules#building",
+    "relUrl": "/examples/bpmn/custom-modeling-rules#building"
+  },"126": {
+    "doc": "dataInputAssociationBehavior",
+    "title": "dataInputAssociationBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/data-input-association-behavior",
+    "relUrl": "/modules/bpmn-modules/data-input-association-behavior"
+  },"127": {
+    "doc": "dataStoreBehavior",
+    "title": "dataStoreBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/data-store-behavior",
+    "relUrl": "/modules/bpmn-modules/data-store-behavior"
+  },"128": {
+    "doc": "dataStore.updateContainment",
+    "title": "dataStore.updateContainment",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/dataStore-updateContainment",
+    "relUrl": "/commands/bpmn-commands/dataStore-updateContainment"
+  },"129": {
+    "doc": "defaultRenderer",
+    "title": "defaultRenderer",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/default-renderer",
+    "relUrl": "/modules/common-modules/default-renderer"
+  },"130": {
+    "doc": "deleteLaneBehavior",
+    "title": "deleteLaneBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/delete-lane-behavior",
+    "relUrl": "/modules/bpmn-modules/delete-lane-behavior"
+  },"131": {
+    "doc": "destroy",
+    "title": "destroy",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/destroy",
+    "relUrl": "/general/api-reference/bpmn-js/destroy"
+  },"132": {
+    "doc": "destroy",
+    "title": "destroy",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/common/destroy",
+    "relUrl": "/general/api-reference/common/destroy"
+  },"133": {
+    "doc": "detachEventBehavior",
+    "title": "detachEventBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/detach-event-behavior",
+    "relUrl": "/modules/bpmn-modules/detach-event-behavior"
+  },"134": {
+    "doc": "detach",
+    "title": "detach",
+    "content": "This event is fired by detach API after the bpmn-js container is removed from the configured DOM node. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/detach",
+    "relUrl": "/events/bpmn-events/detach"
+  },"135": {
+    "doc": "detach",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('detach', () =&gt; { console.log('Container was removed from the DOM. No canvas is available any more.') }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/detach#example-usage",
+    "relUrl": "/events/bpmn-events/detach#example-usage"
+  },"136": {
+    "doc": "detach",
+    "title": "Data",
+    "content": "This event offers no additional data. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/detach#data",
+    "relUrl": "/events/bpmn-events/detach#data"
+  },"137": {
+    "doc": "detach",
+    "title": "detach",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/detach",
+    "relUrl": "/general/api-reference/bpmn-js/detach"
+  },"138": {
+    "doc": "diagram.clear",
+    "title": "diagram.clear",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/diagram-clear",
+    "relUrl": "/events/common-events/diagram-clear"
+  },"139": {
+    "doc": "diagram.destroy",
+    "title": "diagram.destroy",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/diagram-destroy",
+    "relUrl": "/events/common-events/diagram-destroy"
+  },"140": {
+    "doc": "diagram.init",
+    "title": "diagram.init",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/diagram-init",
+    "relUrl": "/events/common-events/diagram-init"
+  },"141": {
+    "doc": "distributeElements",
+    "title": "distributeElements",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/distribute-elements",
+    "relUrl": "/modules/common-modules/distribute-elements"
+  },"142": {
+    "doc": "drag.cancel",
+    "title": "drag.cancel",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-cancel",
+    "relUrl": "/events/common-events/drag-cancel"
+  },"143": {
+    "doc": "drag.canceled",
+    "title": "drag.canceled",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-canceled",
+    "relUrl": "/events/common-events/drag-canceled"
+  },"144": {
+    "doc": "drag.cleanup",
+    "title": "drag.cleanup",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-cleanup",
+    "relUrl": "/events/common-events/drag-cleanup"
+  },"145": {
+    "doc": "drag.end",
+    "title": "drag.end",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-end",
+    "relUrl": "/events/common-events/drag-end"
+  },"146": {
+    "doc": "drag.ended",
+    "title": "drag.ended",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-ended",
+    "relUrl": "/events/common-events/drag-ended"
+  },"147": {
+    "doc": "drag.hover",
+    "title": "drag.hover",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-hover",
+    "relUrl": "/events/common-events/drag-hover"
+  },"148": {
+    "doc": "drag.init",
+    "title": "drag.init",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-init",
+    "relUrl": "/events/common-events/drag-init"
+  },"149": {
+    "doc": "drag.move",
+    "title": "drag.move",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-move",
+    "relUrl": "/events/common-events/drag-move"
+  },"150": {
+    "doc": "drag.out",
+    "title": "drag.out",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-out",
+    "relUrl": "/events/common-events/drag-out"
+  },"151": {
+    "doc": "drag.rejected",
+    "title": "drag.rejected",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-rejected",
+    "relUrl": "/events/common-events/drag-rejected"
+  },"152": {
+    "doc": "drag.start",
+    "title": "drag.start",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/drag-start",
+    "relUrl": "/events/common-events/drag-start"
+  },"153": {
+    "doc": "dragging",
+    "title": "dragging",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/dragging",
+    "relUrl": "/modules/common-modules/dragging"
+  },"154": {
+    "doc": "dropOnFlowBehavior",
+    "title": "dropOnFlowBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/drop-on-flow-behavior",
+    "relUrl": "/modules/bpmn-modules/drop-on-flow-behavior"
+  },"155": {
+    "doc": "editorActions",
+    "title": "editorActions",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/editor-actions",
+    "relUrl": "/modules/common-modules/editor-actions"
+  },"156": {
+    "doc": "editorActions",
+    "title": "editorActions",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/editor-actions",
+    "relUrl": "/modules/bpmn-modules/editor-actions"
+  },"157": {
+    "doc": "editorActions.init",
+    "title": "editorActions.init",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/editorActions-init",
+    "relUrl": "/events/common-events/editorActions-init"
+  },"158": {
+    "doc": "element.changed",
+    "title": "element.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-changed",
+    "relUrl": "/events/common-events/element-changed"
+  },"159": {
+    "doc": "element.click",
+    "title": "element.click",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-click",
+    "relUrl": "/events/common-events/element-click"
+  },"160": {
+    "doc": "element.contextmenu",
+    "title": "element.contextmenu",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-contextmenu",
+    "relUrl": "/events/common-events/element-contextmenu"
+  },"161": {
+    "doc": "element.dblclick",
+    "title": "element.dblclick",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-dblclick",
+    "relUrl": "/events/common-events/element-dblclick"
+  },"162": {
+    "doc": "elementFactory",
+    "title": "elementFactory",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/element-factory",
+    "relUrl": "/modules/common-modules/element-factory"
+  },"163": {
+    "doc": "elementFactory",
+    "title": "elementFactory",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/element-factory",
+    "relUrl": "/modules/bpmn-modules/element-factory"
+  },"164": {
+    "doc": "element.hover",
+    "title": "element.hover",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-hover",
+    "relUrl": "/events/common-events/element-hover"
+  },"165": {
+    "doc": "element.marker.update",
+    "title": "element.marker.update",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-marker-update",
+    "relUrl": "/events/common-events/element-marker-update"
+  },"166": {
+    "doc": "element.mousedown",
+    "title": "element.mousedown",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-mousedown",
+    "relUrl": "/events/common-events/element-mousedown"
+  },"167": {
+    "doc": "element.mousemove",
+    "title": "element.mousemove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-mousemove",
+    "relUrl": "/events/common-events/element-mousemove"
+  },"168": {
+    "doc": "element.mouseup",
+    "title": "element.mouseup",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-mouseup",
+    "relUrl": "/events/common-events/element-mouseup"
+  },"169": {
+    "doc": "element.out",
+    "title": "element.out",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-out",
+    "relUrl": "/events/common-events/element-out"
+  },"170": {
+    "doc": "elementRegistry",
+    "title": "elementRegistry",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/element-registry",
+    "relUrl": "/modules/common-modules/element-registry"
+  },"171": {
+    "doc": "element.setColor",
+    "title": "element.setColor",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/element-setColor",
+    "relUrl": "/commands/bpmn-commands/element-setColor"
+  },"172": {
+    "doc": "element.updateAttachment",
+    "title": "element.updateAttachment",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/element-updateAttachment",
+    "relUrl": "/commands/common-commands/element-updateAttachment"
+  },"173": {
+    "doc": "element.updateId",
+    "title": "element.updateId",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/element-updateId",
+    "relUrl": "/events/common-events/element-updateId"
+  },"174": {
+    "doc": "element.updateLabel",
+    "title": "element.updateLabel",
+    "content": "This command is executed when the labels are being updated and the name of elements are being changed. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/element-updateLabel",
+    "relUrl": "/commands/bpmn-commands/element-updateLabel"
+  },"175": {
+    "doc": "element.updateLabel",
+    "title": "Context",
+    "content": "The context of this command is an object including following properties: . | element (Shape) The element of which the label is updated. | newLabel (String) The new label. | newBounds (Object) Optional A bounds object containing x, y, width and height properties. | hints (Object) Optional The hints object used internally by BpmnJS. | oldLabel (String) Post execution only The old label of the element. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/element-updateLabel#context",
+    "relUrl": "/commands/bpmn-commands/element-updateLabel#context"
+  },"176": {
+    "doc": "element.updateProperties",
+    "title": "element.updateProperties",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/element-updateProperties",
+    "relUrl": "/commands/bpmn-commands/element-updateProperties"
+  },"177": {
+    "doc": "elements.align",
+    "title": "elements.align",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/elements-align",
+    "relUrl": "/commands/common-commands/elements-align"
+  },"178": {
+    "doc": "elements.changed",
+    "title": "elements.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/elements-changed",
+    "relUrl": "/events/common-events/elements-changed"
+  },"179": {
+    "doc": "elements.create",
+    "title": "elements.create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/elements-create",
+    "relUrl": "/commands/common-commands/elements-create"
+  },"180": {
+    "doc": "elements.delete",
+    "title": "elements.delete",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/elements-delete",
+    "relUrl": "/commands/common-commands/elements-delete"
+  },"181": {
+    "doc": "elements.distribute",
+    "title": "elements.distribute",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/elements-distribute",
+    "relUrl": "/commands/common-commands/elements-distribute"
+  },"182": {
+    "doc": "elements.move",
+    "title": "elements.move",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/elements-move",
+    "relUrl": "/commands/common-commands/elements-move"
+  },"183": {
+    "doc": "Enabling and Disabling Commands",
+    "title": "Enabling and Disabling Commands",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/enabling-and-disabling",
+    "relUrl": "/commands/enabling-and-disabling"
+  },"184": {
+    "doc": "eventBasedGatewayBehavior",
+    "title": "eventBasedGatewayBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/event-based-gateway-behavior",
+    "relUrl": "/modules/bpmn-modules/event-based-gateway-behavior"
+  },"185": {
+    "doc": "eventBus",
+    "title": "eventBus",
+    "content": "A general purpose event bus. It is used to communicate between modules of a diagram instance without coupling them. Several components of a diagram can use it to listen to and to broadcast events. It provides the following methods: . | on | once | off | createEvent | fire | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/event-bus",
+    "relUrl": "/modules/common-modules/event-bus"
+  },"186": {
+    "doc": "eventBus",
+    "title": "on",
+    "content": "Usage . on(events: String or Array&lt; string &gt;, [priority=1000]: number, callback: Function, [that]:Object): undefined . Parameters . | events: name of the event or Array of event names. | priority: optional parameter specifying the priority with which the listener is called, where a higher number represents a higher priority and therefore leads to the listener being called earlier. If not provided, default of 1000 will be used. | callback: function which will be invoked with event, ...additionalArguments. Returning anything but undefined from this will stop the listener propagation. Returning false will prevent the execution of the default action for that event. | that: optional parameter which can be used to pass context (this) to the callback. | . Return Value . undefined . Code Example . eventBus.on('saveSVG.start', 1500, function(event) { // access event type event.type; // 'saveSVG.start' // stop propagation to other listeners event.stopPropagation(); // prevent event default event.preventDefault(); // Some custom logic // [...] }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/event-bus#on",
+    "relUrl": "/modules/common-modules/event-bus#on"
+  },"187": {
+    "doc": "eventBus",
+    "title": "once",
+    "content": "Usage . once(events: String or Array&lt; string &gt;, [priority=1000]: number, callback: Function, [that]:Object): undefined . Parameters . | events: name of the event or Array of event names. | priority: optional parameter specifying the priority with which the listener is called, where a higher number represents a higher priority and therefore leads to the listener being called earlier. If not provided, default of 1000 will be used. | callback: function which will be invoked with event, ...additionalArguments. Returning anything but undefined from this will stop the listener propagation. Returning false will prevent the execution of the default action for that event. | that: optional parameter which can be used to pass context (this) to the callback. | . Return Value . undefined . Code Example . // listener performing some one-time operation function listener(event) { return 'One-time operation finished'; } eventBus.once('onceEvent', listener); const firstEventFired = eventBus.fire('onceEvent'), secondEventFired = eventBus.fire('onceEvent'); console.log(firstEventFired); // 'One-time operation finished' console.log(secondEventFired); // undefined . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/event-bus#once",
+    "relUrl": "/modules/common-modules/event-bus#once"
+  },"188": {
+    "doc": "eventBus",
+    "title": "off",
+    "content": "Usage . off(events: String or Array&lt; string &gt;, [callback]: Function): undefined . Parameters . | events: name of the event or Array of event names. | callback: optional parameter specifying the callback listener to be removed. | . Return Value . undefined . Code Example . function fooListener(event) { console.log('Foo'); } function barListener(event) { console.log('Bar'); } eventBus.on('foo', fooListener); eventBus.on('foo', barListener); eventBus.fire('foo'); // 'Foo' 'Bar' eventBus.off('foo', fooListener); eventBus.fire('foo'); // 'Bar' eventBus.off('foo'); eventBus.fire('foo'); // '' . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/event-bus#off",
+    "relUrl": "/modules/common-modules/event-bus#off"
+  },"189": {
+    "doc": "eventBus",
+    "title": "createEvent",
+    "content": "Usage . createEvent(data: Object): Object . Parameters . | data: the event data. | . Return Value . An InternalEvent object which can be passed to fire. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/event-bus#createevent",
+    "relUrl": "/modules/common-modules/event-bus#createevent"
+  },"190": {
+    "doc": "eventBus",
+    "title": "fire",
+    "content": "Usage . fire(name: String, [data]: Object, [arguments]: …Object): Object . Parameters . | name: event name. | data: optional InternalEvent object. If this is not already an instance of InternalEvent, the fire method will internal wrap it as such (using createEvent). | arguments: optional additional arguments to be passed to the callback functions. | . Return Value . | false if the default action was prevented by listeners. | undefined if no listeners were registered for that event. | Object if the invoked listener with the highest priority returns a value. | . Code Example . Passing multiple parameters . function listener(...args) { // Remove first element of args (which is the InternalEvent Object) args.shift(); console.log(`I was called with ${args} as parameters`); } eventBus.on(\"someEvent\", listener); eventBus.fire(\"someEvent\", 1, 2, 3); // I was called with 1,2,3 as parameters . Passing an object as first parameter . eventBus.on('foo', ({ answer }) =&gt; { // Since an object was passed as first parameter, it is assigned to the event directly console.log(answer) }); // Pass an Object as first parameter eventBus.fire('foo', { answer: 42 }); // 42 . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/event-bus#fire",
+    "relUrl": "/modules/common-modules/event-bus#fire"
+  },"191": {
+    "doc": "fixHoverBehavior",
+    "title": "fixHoverBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/fix-hover-behavior",
+    "relUrl": "/modules/bpmn-modules/fix-hover-behavior"
+  },"192": {
+    "doc": "get",
+    "title": "get",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/common/get",
+    "relUrl": "/general/api-reference/common/get"
+  },"193": {
+    "doc": "getDefinitions",
+    "title": "getDefinitions",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/getDefinitions",
+    "relUrl": "/general/api-reference/bpmn-js/getDefinitions"
+  },"194": {
+    "doc": "getModules",
+    "title": "getModules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/getModules",
+    "relUrl": "/general/api-reference/bpmn-js/getModules"
+  },"195": {
+    "doc": "Getting Started With bpmn-js",
+    "title": "Getting Started With bpmn-js",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/getting-started/bpmn-js",
+    "relUrl": "/general/getting-started/bpmn-js"
+  },"196": {
+    "doc": "Getting Started With diagram-js",
+    "title": "Getting Started With diagram-js",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/getting-started/diagram-js",
+    "relUrl": "/general/getting-started/diagram-js"
+  },"197": {
+    "doc": "global-connect.drag.ended",
+    "title": "global-connect.drag.ended",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/global-connect-drag-ended",
+    "relUrl": "/events/common-events/global-connect-drag-ended"
+  },"198": {
+    "doc": "globalConnect",
+    "title": "globalConnect",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/global-connect",
+    "relUrl": "/modules/common-modules/global-connect"
+  },"199": {
+    "doc": "graphicsFactory",
+    "title": "graphicsFactory",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/graphics-factory",
+    "relUrl": "/modules/common-modules/graphics-factory"
+  },"200": {
+    "doc": "grid Module",
+    "title": "gridModule",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/grid-module#gridmodule",
+    "relUrl": "/modules/common-modules/grid-module#gridmodule"
+  },"201": {
+    "doc": "grid Module",
+    "title": "grid Module",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/grid-module",
+    "relUrl": "/modules/common-modules/grid-module"
+  },"202": {
+    "doc": "gridSnappingAutoPlaceBehavior",
+    "title": "gridSnappingAutoPlaceBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/grid-snapping-auto-place-behavior",
+    "relUrl": "/modules/bpmn-modules/grid-snapping-auto-place-behavior"
+  },"203": {
+    "doc": "gridSnappingCreateParticipantBehavior",
+    "title": "gridSnappingCreateParticipantBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/grid-snapping-create-participant-behavior",
+    "relUrl": "/modules/bpmn-modules/grid-snapping-create-participant-behavior"
+  },"204": {
+    "doc": "gridSnappingLayoutConnectionBehavior",
+    "title": "gridSnappingLayoutConnectionBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/grid-snapping-layout-connection-behavior",
+    "relUrl": "/modules/bpmn-modules/grid-snapping-layout-connection-behavior"
+  },"205": {
+    "doc": "gridSnappingResizeBehavior",
+    "title": "gridSnappingResizeBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/grid-snapping-resize-behavior",
+    "relUrl": "/modules/common-modules/grid-snapping-resize-behavior"
+  },"206": {
+    "doc": "gridSnappingSpaceToolBehavior",
+    "title": "gridSnappingSpaceToolBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/grid-snapping-space-tool-behavior",
+    "relUrl": "/modules/common-modules/grid-snapping-space-tool-behavior"
+  },"207": {
+    "doc": "gridSnapping",
+    "title": "gridSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/grid-snapping",
+    "relUrl": "/modules/common-modules/grid-snapping"
+  },"208": {
+    "doc": "gridSnapping.toggle",
+    "title": "gridSnapping.toggle",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/gridSnapping-toggle",
+    "relUrl": "/events/common-events/gridSnapping-toggle"
+  },"209": {
+    "doc": "groupBehavior",
+    "title": "groupBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/group-behavior",
+    "relUrl": "/modules/bpmn-modules/group-behavior"
+  },"210": {
+    "doc": "handTool",
+    "title": "handTool",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/hand-tool",
+    "relUrl": "/modules/common-modules/hand-tool"
+  },"211": {
+    "doc": "hoverFix",
+    "title": "hoverFix",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/hover-fix",
+    "relUrl": "/modules/common-modules/hover-fix"
+  },"212": {
+    "doc": "i18n.changed",
+    "title": "i18n.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/i18n-changed",
+    "relUrl": "/events/common-events/i18n-changed"
+  },"213": {
+    "doc": "i18n",
+    "title": "i18n",
+    "content": "This example shows how to easily translate the strings displayed in bpmn-js to another language. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/i18n",
+    "relUrl": "/examples/bpmn/i18n"
+  },"214": {
+    "doc": "i18n",
+    "title": "Usage Summary",
+    "content": "The custom translation function is provided as an additional module when bpmn-js is instantiated. The default translation implementation is thereby overwritten. var customTranslate = { translate: [ 'value', require('./custom-translate/custom-translate') ] }; var modeler = new BpmnModeler({ // ... additionalModules: [ customTranslate ] }); . You can use your own implementation for translation. The function has two arguments (a template string and an optional object with replacements) and must return the translated string. The example provides two main functionalities: translating and replacing template strings. Translating a string: . var translations = { 'Append': 'Anhängen' }; //... translate('Append'); // Returns 'Anhängen' . Translating a template string: . var translations = { 'Append {element}': '{element} anhängen' }; //... translate('Append {element}', {element: 'Gateway'}); // Returns 'Gateway anhängen' . A list of all available template strings of bpmn-js as well as existing translations can be found in the bpmn-js-i18n repository. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/i18n#usage-summary",
+    "relUrl": "/examples/bpmn/i18n#usage-summary"
+  },"215": {
+    "doc": "i18n",
+    "title": "Run the Example",
+    "content": "You need a NodeJS development stack with npm installed to build the project. To install all project dependencies execute . npm install . To start the example execute . npm start . To build the example into the public folder execute . npm run all . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/i18n#run-the-example",
+    "relUrl": "/examples/bpmn/i18n#run-the-example"
+  },"216": {
+    "doc": "i18n",
+    "title": "i18n",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/i18n",
+    "relUrl": "/modules/common-modules/i18n"
+  },"217": {
+    "doc": "id.updateClaim",
+    "title": "id.updateClaim",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/id-updateClaim",
+    "relUrl": "/commands/bpmn-commands/id-updateClaim"
+  },"218": {
+    "doc": "importDockingFix",
+    "title": "importDockingFix",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/import-docking-fix",
+    "relUrl": "/modules/bpmn-modules/import-docking-fix"
+  },"219": {
+    "doc": "import.done",
+    "title": "import.done",
+    "content": "This event is fired by importXML API with data containing error and warnings after the import ends. This allows users to check if the import has been successful or not. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-done",
+    "relUrl": "/events/bpmn-events/import-done"
+  },"220": {
+    "doc": "import.done",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('import.done', (data) =&gt; { const { error, warnings } = data; // check for error while importing the diagram if(error) { console.log('Error while importing the diagram raised:', errors); } // check for warnings while importing the diagram if(warnings &amp;&amp; warnings.length) { console.log('Warnings while importing the diagram raised:', warnings); } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-done#example-usage",
+    "relUrl": "/events/bpmn-events/import-done#example-usage"
+  },"221": {
+    "doc": "import.done",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | error: Error An error that got raised during the import. | warnings: Array&lt;String&gt; A list of warnings that got raised during the import. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-done#data",
+    "relUrl": "/events/bpmn-events/import-done#data"
+  },"222": {
+    "doc": "import.parse.complete",
+    "title": "import.parse.complete",
+    "content": "This event is fired by importXML API with data containing the result after parsing step of the import ends. This allows users to hook into and manipulate the imported definitions moddle element. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-parse-complete",
+    "relUrl": "/events/bpmn-events/import-parse-complete"
+  },"223": {
+    "doc": "import.parse.complete",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('import.parse.complete', (data) =&gt; { const { error, warnings, definitions } = data; // check for import errors if (error) { return console.log('Error while importing diagram:', error); } // check for import warnings if (warnings &amp;&amp; warnings.length) { return console.log('Warnings while importing diagram:', warnings); } // check for exporter of the original diagram const exporter = definitions.get('exporter'); if (exporter !== 'Camunda Modeler') { throw new Error( 'This diagram has to be exported from the Camunda Modeler!' ); } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-parse-complete#example-usage",
+    "relUrl": "/events/bpmn-events/import-parse-complete#example-usage"
+  },"224": {
+    "doc": "import.parse.complete",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | xml: String The BPMN 2.0 XML that is about to be imported. | error: Error An error that got raised through the import. | definitions: ModdleElement The definitions moddle element that got imported from the BPMN 2.0 XML. | elementsById: Object A map of elements referenced by their ids. | references: Array&lt;ModdleElement&gt; A list of referenced elements in the diagram. | warnings: Array&lt;String&gt; A list of warnings that got raised during the import. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-parse-complete#data",
+    "relUrl": "/events/bpmn-events/import-parse-complete#data"
+  },"225": {
+    "doc": "import.parse.start",
+    "title": "import.parse.start",
+    "content": "This event is fired by importXML API with data containing xml before the import begins. This allows users to hook into and manipulate imported XML. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-parse-start",
+    "relUrl": "/events/bpmn-events/import-parse-start"
+  },"226": {
+    "doc": "import.parse.start",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('import.parse.start', (data) =&gt; { const { xml } = data; // this is the XML that is about to get imported const newXML = xml.replace('StartEvent_1', 'StartEvent_2'); return newXML; // now this new XML will be imported instead }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-parse-start#example-usage",
+    "relUrl": "/events/bpmn-events/import-parse-start#example-usage"
+  },"227": {
+    "doc": "import.parse.start",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | xml: String The BPMN 2.0 XML that is about to be imported. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-parse-start#data",
+    "relUrl": "/events/bpmn-events/import-parse-start#data"
+  },"228": {
+    "doc": "import.render.complete",
+    "title": "import.render.complete",
+    "content": "This event is fired by importXML API with data containing error and warnings after the graphical import ends. This allows users to listen to whether the rendering of a diagram was successful or not. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-render-complete",
+    "relUrl": "/events/bpmn-events/import-render-complete"
+  },"229": {
+    "doc": "import.render.complete",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('import.render.complete', (data) =&gt; { const { error, warnings } = data; // check for error while importing the diagram if(error) { console.log('Error while importing the diagram raised:', errors); } // check for warnings while importing the diagram if(warnings &amp;&amp; warnings.length) { console.log('Warnings while importing the diagram raised:', warnings); } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-render-complete#example-usage",
+    "relUrl": "/events/bpmn-events/import-render-complete#example-usage"
+  },"230": {
+    "doc": "import.render.complete",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | error: Error An error that got raised during the import. | warnings: Array&lt;String&gt; A list of warnings that got raised during the import. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-render-complete#data",
+    "relUrl": "/events/bpmn-events/import-render-complete#data"
+  },"231": {
+    "doc": "import.render.start",
+    "title": "import.render.start",
+    "content": "This event is fired by importXML API with data containing definitions before the graphical import begins. This allows users to listen for the start of the graphical rendering of diagrams. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-render-start",
+    "relUrl": "/events/bpmn-events/import-render-start"
+  },"232": {
+    "doc": "import.render.start",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('import.render.start', (data) =&gt; { const { definitions } = data; // this is the definitions element that is about to be rendered console.log('Diagram will be rendered, definitions:', definitions); }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-render-start#example-usage",
+    "relUrl": "/events/bpmn-events/import-render-start#example-usage"
+  },"233": {
+    "doc": "import.render.start",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | definitions: ModdleElement The definitions moddle element that is about to be rendered. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/import-render-start#data",
+    "relUrl": "/events/bpmn-events/import-render-start#data"
+  },"234": {
+    "doc": "importDefinitions",
+    "title": "importDefinitions",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/importDefinitions",
+    "relUrl": "/general/api-reference/bpmn-js/importDefinitions"
+  },"235": {
+    "doc": "importXML",
+    "title": "importXML",
+    "content": "importXML API parses and renders a BPMN 2.0 diagram. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/importXML",
+    "relUrl": "/general/api-reference/bpmn-js/importXML"
+  },"236": {
+    "doc": "importXML",
+    "title": "Usage",
+    "content": "importXML(xml: String, bpmnDiagram: ModdleElement or String): Promise&lt; result: Object, error: Error &gt; . Parameters . | xml BPMN 2.0 XML string to import and render. | bpmnDiagram BPMN diagram moddle element to render or id string of the diagram to render. | . Return Value . A Promise resolving with . | result An object containing warnings property which is an array of import warnings. | . and rejecting with . | error An error containing additional warnings property which is an array of import warnings. | . Example Usage . // modeler is an instance of BpmnJS Modeler. try { const result = await modeler.importXML(xml); const { warnings } = result; console.log('Import warnings: ', warnings); } catch (err) { console.log('Error happened: ', err.message, err.warnings); } . Life-Cycle Events . During the import, these events will be fired: . | import.parse.start | import.parse.complete | import.render.start | import.render.complete | import.done | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/importXML#usage",
+    "relUrl": "/general/api-reference/bpmn-js/importXML#usage"
+  },"237": {
+    "doc": "importXML",
+    "title": "Using with Callback Function",
+    "content": "With the v7.0.0 release public bpmn-js APIs are made awaitable and passing callbacks to APIs will be deprecated in a future release. See here for more info. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/importXML#using-with-callback-function",
+    "relUrl": "/general/api-reference/bpmn-js/importXML#using-with-callback-function"
+  },"238": {
+    "doc": "Events",
+    "title": "Events",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events",
+    "relUrl": "/events"
+  },"239": {
+    "doc": "Common Modules",
+    "title": "Common Modules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules",
+    "relUrl": "/modules/common-modules"
+  },"240": {
+    "doc": "Working With Labels",
+    "title": "Working With Labels",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/working-with-labels",
+    "relUrl": "/general/working-with-labels"
+  },"241": {
+    "doc": "Working With Events",
+    "title": "Working With Events",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/working-with-events",
+    "relUrl": "/general/working-with-events"
+  },"242": {
+    "doc": "Modules",
+    "title": "Modules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules",
+    "relUrl": "/modules"
+  },"243": {
+    "doc": "Home",
+    "title": "bpmn.io Docs",
+    "content": "Welcome to bpmn.io documentation.不写文档，人共诛之。 . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/#bpmnio-docs",
+    "relUrl": "/#bpmnio-docs"
+  },"244": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/",
+    "relUrl": "/"
+  },"245": {
+    "doc": "Commands",
+    "title": "Commands",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands",
+    "relUrl": "/commands"
+  },"246": {
+    "doc": "Working With Modules",
+    "title": "Working With Modules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/working-with-modules",
+    "relUrl": "/general/working-with-modules"
+  },"247": {
+    "doc": "Working With Commands",
+    "title": "Working With Commands",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/working-with-commands",
+    "relUrl": "/general/working-with-commands"
+  },"248": {
+    "doc": "General",
+    "title": "General",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general",
+    "relUrl": "/general"
+  },"249": {
+    "doc": "Common Commands",
+    "title": "Common Commands",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands",
+    "relUrl": "/commands/common-commands"
+  },"250": {
+    "doc": "BPMN Commands",
+    "title": "BPMN Commands",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands",
+    "relUrl": "/commands/bpmn-commands"
+  },"251": {
+    "doc": "Common Events",
+    "title": "Common Events",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events",
+    "relUrl": "/events/common-events"
+  },"252": {
+    "doc": "Examples",
+    "title": "Examples",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples",
+    "relUrl": "/examples"
+  },"253": {
+    "doc": "BPMN Examples",
+    "title": "BPMN Examples",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn",
+    "relUrl": "/examples/bpmn"
+  },"254": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/getting-started",
+    "relUrl": "/general/getting-started"
+  },"255": {
+    "doc": "API Reference",
+    "title": "API Reference",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/api-reference",
+    "relUrl": "/api-reference"
+  },"256": {
+    "doc": "bpmn-js",
+    "title": "bpmn-js",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js",
+    "relUrl": "/general/api-reference/bpmn-js"
+  },"257": {
+    "doc": "Common (diagram-js)",
+    "title": "Common (diagram-js)",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/common",
+    "relUrl": "/general/api-reference/common"
+  },"258": {
+    "doc": "Working With Business Objects",
+    "title": "Working With Business Objects",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/working-with-business-objects",
+    "relUrl": "/general/working-with-business-objects"
+  },"259": {
+    "doc": "Components",
+    "title": "Components",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/components",
+    "relUrl": "/general/components"
+  },"260": {
+    "doc": "BPMN Modules",
+    "title": "BPMN Modules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules",
+    "relUrl": "/modules/bpmn-modules"
+  },"261": {
+    "doc": "BPMN Events",
+    "title": "BPMN Events",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events",
+    "relUrl": "/events/bpmn-events"
+  },"262": {
+    "doc": "interactionEvents",
+    "title": "interactionEvents",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/interaction-events",
+    "relUrl": "/modules/common-modules/interaction-events"
+  },"263": {
+    "doc": "Interaction",
+    "title": "Interaction",
+    "content": "An example that showcases the different ways to enable user interaction with BPMN diagrams using bpmn-js. Try out. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/interaction",
+    "relUrl": "/examples/bpmn/interaction"
+  },"264": {
+    "doc": "Interaction",
+    "title": "About",
+    "content": "The embeds a BPMN viewer, opens a BPMN 2.0 diagram and logs user interactions. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/interaction#about",
+    "relUrl": "/examples/bpmn/interaction#about"
+  },"265": {
+    "doc": "Interaction",
+    "title": "Usage summary",
+    "content": "You may attach interaction event listeners to a BPMN viewer/modeler as soon as it has a diagram loaded: . var viewer = new BpmnJS({ container: SOME_CONTAINER }); try { await viewer.importXML(diagramXM); // diagram is loaded, add interaction to it now // see below for options // ... } catch (err) { console.error('Error happened: ', err); } . Two options exists for making your diagram interactive. Hook into diagram events . Use the eventBus service to hook into element.* interaction events. bpmn-js makes sure the events are properly dispatched, even if the user works on a touch device. var eventBus = viewer.get('eventBus'); // you may hook into any of the following events var events = [ 'element.hover', 'element.out', 'element.click', 'element.dblclick', 'element.mousedown', 'element.mouseup' ]; events.forEach(function(event) { eventBus.on(event, function(e) { // e.element = the model element // e.gfx = the graphical element log(event, 'on', e.element.id); }); }); . Directly attach listener to DOM . You have more control on which elements you would like to address by directly attaching listeners to the underlying DOM (i.e. HTML/SVG) nodes. You can do so by searching for selectors like [data-element-id=ID_OF_ELEMENT]: . // each model element a data-element-id attribute attached to // it in HTML // select the end event var endEventNode = document.querySelector('[data-element-id=END_EVENT]'); endEventNode.addEventListener('click', function(e) { alert('clicked the end event!'); }); . Both options allow you to intercept user interaction with the diagram and handle it accordingly. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/interaction#usage-summary",
+    "relUrl": "/examples/bpmn/interaction#usage-summary"
+  },"266": {
+    "doc": "Interaction",
+    "title": "Run this Example",
+    "content": "Download and open the example HTML page. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/interaction#run-this-example",
+    "relUrl": "/examples/bpmn/interaction#run-this-example"
+  },"267": {
+    "doc": "interactions.createHit Event",
+    "title": "interactionEvents.createHit",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/interactionEvents-createHit#interactioneventscreatehit",
+    "relUrl": "/events/common-events/interactionEvents-createHit#interactioneventscreatehit"
+  },"268": {
+    "doc": "interactions.createHit Event",
+    "title": "interactions.createHit Event",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/interactionEvents-createHit",
+    "relUrl": "/events/common-events/interactionEvents-createHit"
+  },"269": {
+    "doc": "interactions.updateHit Event",
+    "title": "interactionEvents.updateHit",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/interactionEvents-updateHit#interactioneventsupdatehit",
+    "relUrl": "/events/common-events/interactionEvents-updateHit#interactioneventsupdatehit"
+  },"270": {
+    "doc": "interactions.updateHit Event",
+    "title": "interactions.updateHit Event",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/interactionEvents-updateHit",
+    "relUrl": "/events/common-events/interactionEvents-updateHit"
+  },"271": {
+    "doc": "invoke",
+    "title": "invoke",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/common/invoke",
+    "relUrl": "/general/api-reference/common/invoke"
+  },"272": {
+    "doc": "isHorizontalFix",
+    "title": "isHorizontalFix",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/is-horizontal-fix",
+    "relUrl": "/modules/bpmn-modules/is-horizontal-fix"
+  },"273": {
+    "doc": "keyboard.bind",
+    "title": "keyboard.bind",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/keyboard-bind",
+    "relUrl": "/events/common-events/keyboard-bind"
+  },"274": {
+    "doc": "keyboardBindings",
+    "title": "keyboardBindings",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/keyboard-bindings",
+    "relUrl": "/modules/bpmn-modules/keyboard-bindings"
+  },"275": {
+    "doc": "keyboardBindings",
+    "title": "keyboardBindings",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/keyboard-bindings",
+    "relUrl": "/modules/common-modules/keyboard-bindings"
+  },"276": {
+    "doc": "keyboard.destroy",
+    "title": "keyboard.destroy",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/keyboard-destroy",
+    "relUrl": "/events/common-events/keyboard-destroy"
+  },"277": {
+    "doc": "keyboard.init",
+    "title": "keyboard.init",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/keyboard-init",
+    "relUrl": "/events/common-events/keyboard-init"
+  },"278": {
+    "doc": "keyboard.keydown",
+    "title": "keyboard.keydown",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/keyboard-keydown",
+    "relUrl": "/events/common-events/keyboard-keydown"
+  },"279": {
+    "doc": "keyboard.keyup",
+    "title": "keyboard.keyup",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/keyboard-keyup",
+    "relUrl": "/events/common-events/keyboard-keyup"
+  },"280": {
+    "doc": "keyboardMoveSelection",
+    "title": "keyboardMoveSelection",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/keyboard-move-selection",
+    "relUrl": "/modules/common-modules/keyboard-move-selection"
+  },"281": {
+    "doc": "keyboardMove",
+    "title": "keyboardMove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/keyboard-move",
+    "relUrl": "/modules/common-modules/keyboard-move"
+  },"282": {
+    "doc": "keyboard.unbind",
+    "title": "keyboard.unbind",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/keyboard-unbind",
+    "relUrl": "/events/common-events/keyboard-unbind"
+  },"283": {
+    "doc": "keyboards",
+    "title": "keyboards",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/keyboards",
+    "relUrl": "/modules/common-modules/keyboards"
+  },"284": {
+    "doc": "labelBehavior",
+    "title": "labelBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/label-behavior",
+    "relUrl": "/modules/bpmn-modules/label-behavior"
+  },"285": {
+    "doc": "label.create",
+    "title": "label.create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/label-create",
+    "relUrl": "/commands/common-commands/label-create"
+  },"286": {
+    "doc": "labelEditingPreview",
+    "title": "labelEditingPreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/label-editing-preview",
+    "relUrl": "/modules/bpmn-modules/label-editing-preview"
+  },"287": {
+    "doc": "labelEditingProvider",
+    "title": "labelEditingProvider",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/label-editing-provider",
+    "relUrl": "/modules/bpmn-modules/label-editing-provider"
+  },"288": {
+    "doc": "labelSupport",
+    "title": "labelSupport",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/label-support",
+    "relUrl": "/modules/common-modules/label-support"
+  },"289": {
+    "doc": "lane.add",
+    "title": "lane.add",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/lane-add",
+    "relUrl": "/commands/bpmn-commands/lane-add"
+  },"290": {
+    "doc": "lane.resize",
+    "title": "lane.resize",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/lane-resize",
+    "relUrl": "/commands/bpmn-commands/lane-resize"
+  },"291": {
+    "doc": "lane.split",
+    "title": "lane.split",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/lane-split",
+    "relUrl": "/commands/bpmn-commands/lane-split"
+  },"292": {
+    "doc": "lane.updateRefs",
+    "title": "lane.updateRefs",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/bpmn-commands/lane-updateRefs",
+    "relUrl": "/commands/bpmn-commands/lane-updateRefs"
+  },"293": {
+    "doc": "lassoTool",
+    "title": "lassoTool",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/lasso-tool",
+    "relUrl": "/modules/common-modules/lasso-tool"
+  },"294": {
+    "doc": "layouter",
+    "title": "layouter",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/layouter",
+    "relUrl": "/modules/bpmn-modules/layouter"
+  },"295": {
+    "doc": "Listening to Events",
+    "title": "Listening to Events",
+    "content": "bpmn-js uses a general purpose event bus provided by diagram-js to communicate across a diagram instance based on events. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/listening-to-events",
+    "relUrl": "/events/listening-to-events"
+  },"296": {
+    "doc": "Listening to Events",
+    "title": "Retrieving the eventBus Instance",
+    "content": "In order to register a listener for an event, the eventBus instance needs to be retrieved first. This instance can be retrieved like any other module through NavigatedViewer#get, Viewer#get or Modeler#get. Alternatively, the #on and #off methods can be used as shortcuts for [...].get('eventBus').on and [...].get('eventBus').off to register or remove a previously registered event listener. Again, these shortcuts work on NavigatedViewer, Viewer or Modeler likewise. Example Usage . Notice that the following snippet demonstrates the retrieval of the eventBus instance using a Modeler. In principle this instance could also be retrieved from an instance of a NavigatedViewer or Viewer likewise. import BpmnJS from 'bpmn-js/lib/Modeler'; const modeler = new BpmnJS({ container, keyboard: { bindTo: document } }); // [...] const eventBus = modeler.get('eventBus'); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/listening-to-events#retrieving-the-eventbus-instance",
+    "relUrl": "/events/listening-to-events#retrieving-the-eventbus-instance"
+  },"297": {
+    "doc": "Listening to Events",
+    "title": "Registering an Event Listener",
+    "content": "EventBus provides the EventBus#on and EventBus#once methods for registering events (see the reference pages for more details). Example Usage . Register a listener function with custom priority of 1500 (default is 1000). A higher priority number results in a higher priority and therefore earlier calling. Notice that the following snippet could also use the EventBus#once method resulting in the listener function only being called once. function listener(event) { // access event type event.type; // 'saveSVG.start' // stop propagation to other listeners event.stopPropagation(); // prevent event default event.preventDefault(); // return some value return 42; } eventBus.on('saveSVG.start', 1500, listener); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/listening-to-events#registering-an-event-listener",
+    "relUrl": "/events/listening-to-events#registering-an-event-listener"
+  },"298": {
+    "doc": "Listening to Events",
+    "title": "Removing an event listener",
+    "content": "EventBus provides the EventBus#off method to remove event listeners by event or by event and callback. Example Usage . Remove the event listeners we previously registered . eventBus.off('saveSVG.start', listener); . Alternatively, all listener for a specific event can be removed by omitting the second argument . eventBus.off('saveSVG.start'); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/listening-to-events#removing-an-event-listener",
+    "relUrl": "/events/listening-to-events#removing-an-event-listener"
+  },"299": {
+    "doc": "Minimap",
+    "title": "Minimap",
+    "content": "This example uses bpmn-js and diagram-js-minimap. It implements a BPMN 2.0 modeler with a minimap that lets you navigate the diagram. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/minimap",
+    "relUrl": "/examples/bpmn/minimap"
+  },"300": {
+    "doc": "Minimap",
+    "title": "Usage",
+    "content": "Add diagram-js-minimap to your project: . npm install --save diagram-js-minimap . Now load the minimap module along with the bpmn-js instance: . import BpmnModeler from 'bpmn-js/lib/Modeler'; import minimapModule from 'diagram-js-minimap'; var bpmnModeler = new BpmnModeler({ container: '#canvas', additionalModules: [ minimapModule ] }); await bpmnModeler.importXML(xml); console.log('Awesome! Ready to navigate!'); . Checkout app/app.js for details. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/minimap#usage",
+    "relUrl": "/examples/bpmn/minimap#usage"
+  },"301": {
+    "doc": "Minimap",
+    "title": "Run the Example",
+    "content": "You need a NodeJS development stack with npm installed to build the project. To install all project dependencies execute . npm install . To start the example execute . npm start . To build the example into the public folder execute . npm run all . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/minimap#run-the-example",
+    "relUrl": "/examples/bpmn/minimap#run-the-example"
+  },"302": {
+    "doc": "moddleCopy",
+    "title": "moddleCopy",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/moddle-copy",
+    "relUrl": "/modules/bpmn-modules/moddle-copy"
+  },"303": {
+    "doc": "moddleCopy.canCopyProperties",
+    "title": "moddleCopy.canCopyProperties",
+    "content": "This event is fired by moddleCopy API with data containing propertyNames, sourceElement and targetElement before a BPMN 2.0 element is about to be copied. This allows users to hook into and decide whether and what to copy for a given source element. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canCopyProperties",
+    "relUrl": "/events/bpmn-events/moddleCopy-canCopyProperties"
+  },"304": {
+    "doc": "moddleCopy.canCopyProperties",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. const HIGH_PRIORITY = 5000; modeler.on('moddleCopy.canCopyProperties', HIGH_PRIORITY, (data) =&gt; { const { sourceElement } = data; // get element that is about to be copied if (sourceElement.$type === 'bpmn:StartEvent') { return false; // disallow copying start events } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canCopyProperties#example-usage",
+    "relUrl": "/events/bpmn-events/moddleCopy-canCopyProperties#example-usage"
+  },"305": {
+    "doc": "moddleCopy.canCopyProperties",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | propertyNames: Array&lt;String&gt; A list of property names that are about to be copied. | sourceElement: ModdleElement The element that is about to be copied. | targetElement: ModdleElement The element where the properties are about to be inserted. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canCopyProperties#data",
+    "relUrl": "/events/bpmn-events/moddleCopy-canCopyProperties#data"
+  },"306": {
+    "doc": "moddleCopy.canCopyProperty",
+    "title": "moddleCopy.canCopyProperty",
+    "content": "This event is fired by moddleCopy API with data containing parent, property and propertyName of a to be copied BPMN 2.0 model property. This allows users to hook into and decide whether and what to copy for a given property. One main use case is to add or remove the ability to copy custom properties. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canCopyProperty",
+    "relUrl": "/events/bpmn-events/moddleCopy-canCopyProperty"
+  },"307": {
+    "doc": "moddleCopy.canCopyProperty",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. const HIGH_PRIORITY = 5000; modeler.on('moddleCopy.canCopyProperty', HIGH_PRIORITY, (data) =&gt; { const { property } = data; // get property that is about to get copied if (property.$type === 'myCustomProperty') { return false; // never allow copying this custom property } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canCopyProperty#example-usage",
+    "relUrl": "/events/bpmn-events/moddleCopy-canCopyProperty#example-usage"
+  },"308": {
+    "doc": "moddleCopy.canCopyProperty",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | parent: ModdleElement The element that owns the to be copied property. | property: String | ModdleElement The property that is about to be copied. | propertyName: String The name of the property in the parent element. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canCopyProperty#data",
+    "relUrl": "/events/bpmn-events/moddleCopy-canCopyProperty#data"
+  },"309": {
+    "doc": "moddleCopy.canSetCopiedProperty",
+    "title": "moddleCopy.canSetCopiedProperty",
+    "content": "This event is fired by moddleCopy API with data containing parent, property and propertyName of an already copied BPMN 2.0 model property. This allows users to hook into and decide whether to allow setting an already copied property. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canSetCopiedProperty",
+    "relUrl": "/events/bpmn-events/moddleCopy-canSetCopiedProperty"
+  },"310": {
+    "doc": "moddleCopy.canSetCopiedProperty",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. const HIGH_PRIORITY = 5000; modeler.on('moddleCopy.canSetCopiedProperty', HIGH_PRIORITY, (data) =&gt; { const { property } = data; // get property that is about to get set if (property.$type === 'bpmn:ExtensionElement' &amp;&amp; (!property.values || !property.values.length)) { return false; // don't allow setting empty extension elements } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canSetCopiedProperty#example-usage",
+    "relUrl": "/events/bpmn-events/moddleCopy-canSetCopiedProperty#example-usage"
+  },"311": {
+    "doc": "moddleCopy.canSetCopiedProperty",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | parent: ModdleElement The element that owns the property. | property: String | ModdleElement The property that is about to be set. | propertyName: String The name of the property in the parent element. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/moddleCopy-canSetCopiedProperty#data",
+    "relUrl": "/events/bpmn-events/moddleCopy-canSetCopiedProperty#data"
+  },"312": {
+    "doc": "Modeler",
+    "title": "Modeler",
+    "content": "This example uses bpmn-js to implement a modeler for BPMN 2.0 process diagrams. It serves as the basis of the bpmn-js demo application available at demo.bpmn.io. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/modeler",
+    "relUrl": "/examples/bpmn/modeler"
+  },"313": {
+    "doc": "Modeler",
+    "title": "About",
+    "content": "This example is a node-style web application that builds a user interface around the bpmn-js BPMN 2.0 modeler. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/modeler#about",
+    "relUrl": "/examples/bpmn/modeler#about"
+  },"314": {
+    "doc": "Modeler",
+    "title": "Building",
+    "content": "You need a NodeJS development stack with npm installed to build the project. To install all project dependencies execute . npm install . Build the application (including bpmn-js) via . npm run all . You may also spawn a development setup by executing . npm run dev . Both tasks generate the distribution ready client-side modeler application into the public folder. Serve the application locally or via a web server (nginx, apache, embedded). ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/modeler#building",
+    "relUrl": "/examples/bpmn/modeler#building"
+  },"315": {
+    "doc": "Modeling API",
+    "title": "Modeling API",
+    "content": "A step-by-step introduction to modeling using the API. You’ll learn how create and edit shapes and connections. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/modeling-api",
+    "relUrl": "/examples/bpmn/modeling-api"
+  },"316": {
+    "doc": "Modeling API",
+    "title": "About This Example",
+    "content": "This example is built as a webpage that introduces you to the basics of working with bpmn-js’ API, including: . | creating and editing shapes and connections | editing the BPMN properties of an element | creating collaborations, participants and lanes | . Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/modeling-api#about-this-example",
+    "relUrl": "/examples/bpmn/modeling-api#about-this-example"
+  },"317": {
+    "doc": "Modeling API",
+    "title": "Running the Example",
+    "content": "Install the dependencies: . npm install . Build and open the example in the browser: . npm start . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/modeling-api#running-the-example",
+    "relUrl": "/examples/bpmn/modeling-api#running-the-example"
+  },"318": {
+    "doc": "modelingFeedback",
+    "title": "modelingFeedback",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling-feedback",
+    "relUrl": "/modules/bpmn-modules/modeling-feedback"
+  },"319": {
+    "doc": "modeling",
+    "title": "modeling",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/modeling",
+    "relUrl": "/modules/common-modules/modeling"
+  },"320": {
+    "doc": "modeling",
+    "title": "modeling",
+    "content": "This module extends the functionality of the common modeling module. Additional APIs over the common modeling module are: . | updateLabel | connect | updateProperties | resizeLane | addLane | splitLane | setColor | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling",
+    "relUrl": "/modules/bpmn-modules/modeling"
+  },"321": {
+    "doc": "modeling",
+    "title": "updateLabel",
+    "content": "Updates labels and changes the names of elements. This API fires elements.changed event and executes element.updateLabel command. Example Usage . updateLabel(element: Shape, newLabel: String, newBounds: Object, hints: Object): undefined . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const startEvent1 = elementRegistry.get('StartEvent_1'); modeling.updateLabel(startEvent1, 'new label'); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#updatelabel",
+    "relUrl": "/modules/bpmn-modules/modeling#updatelabel"
+  },"322": {
+    "doc": "modeling",
+    "title": "connect",
+    "content": "Connects two shapes if allowed by the BPMN rules. Uses createConnection internally. Example Usage . connect(source: Shape, target: Shape, attrs: Object, hints: Object): Connection . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const sourceShape = elementRegistry.get('Task_1'); const targetShape = elementRegistry.get('Task_2'); modeling.connect(sourceShape, targetShape); . To create connection with custom start/end points: . const attrs = null; modeling.connect(sourceShape, targetShape, attrs, { connectionStart: { x: 700, y: 400 }, connectionEnd: { x: 420, y: 130 } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#connect",
+    "relUrl": "/modules/bpmn-modules/modeling#connect"
+  },"323": {
+    "doc": "modeling",
+    "title": "updateProperties",
+    "content": "Updates the properties of business object of given shape. This API executes element.updateProperties command. Example Usage . updateProperties(element: Shape, properties: Object): undefined . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const gatewayShape = elementRegistry.get('ExclusiveGateway_1'); const newDefaultFlowConnection = elementRegistry.get('SequenceFlow_2'); const newDefaultFlow = newDefaultFlowConnection.businessObject; modeling.updateProperties(gatewayShape, { 'default': newDefaultFlow }); const flowConnection = elementRegistry.get('SequenceFlow_1'); modeling.updateProperties(flowConnection, { name: 'new name' }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#updateproperties",
+    "relUrl": "/modules/bpmn-modules/modeling#updateproperties"
+  },"324": {
+    "doc": "modeling",
+    "title": "resizeLane",
+    "content": "Resizes BPMN lane objects. This API executes lane.resize command. Example Usage . resizeLane(laneShape: Shape, newBounds: Object, balanced: Boolean): undefined . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const laneShape = elementRegistry.get('Lane_A'); const newBounds = { x: laneShape.x y: laneShape.y + 10 width: laneShape.width height: laneShape.height - 10 }; modeling.resizeLane(laneShape, newBounds); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#resizelane",
+    "relUrl": "/modules/bpmn-modules/modeling#resizelane"
+  },"325": {
+    "doc": "modeling",
+    "title": "addLane",
+    "content": "Adds a lane shape to its parent (either Participant, Process or SubProcess). This API executes lane.add command. Example Usage . addLane(targetLaneShape: Shape, location: String): Shape . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const laneShape = elementRegistry.get('Lane_A'); const location = 'bottom'; // either 'top' or 'bottom' const newLane = modeling.addLane(laneShape, location); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#addlane",
+    "relUrl": "/modules/bpmn-modules/modeling#addlane"
+  },"326": {
+    "doc": "modeling",
+    "title": "splitLane",
+    "content": "Splits a participant into lanes. This API executes lane.split command. Example Usage . splitLane(targetLane: Shape, count: Integer): undefined . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const participantShape = elementRegistry.get('Participant'); // Split the participant into 2 lanes modeling.splitLane(participantShape, 2); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#splitlane",
+    "relUrl": "/modules/bpmn-modules/modeling#splitlane"
+  },"327": {
+    "doc": "modeling",
+    "title": "setColor",
+    "content": "Sets/unsets the fill and stroke colors of given element(s). This API executes element.setColor command. Example Usage . setColor(elements: Array or _Shape_, colors: _Object_): _undefined_ . // bpmnJS is an instance of BpmnJS Modeler. const elementRegistry = bpmnJS.get('elementRegistry'); const modeling = bpmnJS.get('modeling'); const taskShape = elementRegistry.get('Task_1'); // set the fill and stroke colors modeling.setColor(taskShape, { fill: 'FUCHSIA', stroke: 'YELLOW' }); // unset the fill and stroke colors modeling.setColor(taskShape); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/modeling#setcolor",
+    "relUrl": "/modules/bpmn-modules/modeling#setcolor"
+  },"328": {
+    "doc": "mouse",
+    "title": "mouse",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/mouse",
+    "relUrl": "/modules/common-modules/mouse"
+  },"329": {
+    "doc": "moveCanvas",
+    "title": "moveCanvas",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/move-canvas",
+    "relUrl": "/modules/common-modules/move-canvas"
+  },"330": {
+    "doc": "movePreview",
+    "title": "movePreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/move-preview",
+    "relUrl": "/modules/common-modules/move-preview"
+  },"331": {
+    "doc": "move",
+    "title": "move",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/move",
+    "relUrl": "/modules/common-modules/move"
+  },"332": {
+    "doc": "off",
+    "title": "off",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/off",
+    "relUrl": "/general/api-reference/bpmn-js/off"
+  },"333": {
+    "doc": "on",
+    "title": "on",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/on",
+    "relUrl": "/general/api-reference/bpmn-js/on"
+  },"334": {
+    "doc": "open",
+    "title": "open",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/open",
+    "relUrl": "/general/api-reference/bpmn-js/open"
+  },"335": {
+    "doc": "outline",
+    "title": "outline",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/outline",
+    "relUrl": "/modules/common-modules/outline"
+  },"336": {
+    "doc": "overlays",
+    "title": "overlays",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/overlays",
+    "relUrl": "/modules/common-modules/overlays"
+  },"337": {
+    "doc": "Overlays",
+    "title": "Overlays",
+    "content": "This example shows how to use the overlays API of bpmn-js to attach HTML overlays to a BPMN 2.0 diagram. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/overlays",
+    "relUrl": "/examples/bpmn/overlays"
+  },"338": {
+    "doc": "Overlays",
+    "title": "About",
+    "content": "The example loads a process diagram on how to process QR codes and attaches a note on it using the overlays service. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/overlays#about",
+    "relUrl": "/examples/bpmn/overlays#about"
+  },"339": {
+    "doc": "Overlays",
+    "title": "Usage summary",
+    "content": "Access the overlays service via bpmnViewer.get('overlays') and add overlays to elements by id using the Overlays#add method. var overlays = bpmnViewer.get('overlays'); // attach an overlay to a node overlays.add('SCAN_OK', { position: { bottom: 0, right: 0 }, html: '&lt;div&gt;Mixed up the labels?&lt;/div&gt;' }); . The method Overlays#add receives two important parameters: . | a element or elementId | a overlay descriptor | . The overlay descriptor must contain a html element you want to attach as the overlay as well as a position that indicates where you want the overlay to be added on the element. Use top, left, bottom, right to control the attachment. Checkout the example for additional configuration options such as conditional scaling and showing of overlays. Interacting with Overlays . Instead of adding an HTML string, you can pass a JQuery object or plain DOM element via the overlay descriptor, too. This way you can register events with it, thus making it interactive. var overlayHtml = $('&lt;div&gt;Mixed up the labels?&lt;/div&gt;'); overlayHtml.click(function(e) { alert('someone clicked me'); }); // attach the overlayHtml to a node overlays.add('SCAN_OK', { position: { bottom: 0, right: 0 }, html: overlayHtml }); . Removing Overlays . Overlays may be removed via Overlays#remove, passing the overlay id or a complex element/type selector: . // remove by id var overlayId = overlays.add(...); overlays.remove(overlayId); // remove by element and/or type overlays.remove({ element: 'SCAN_OK' }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/overlays#usage-summary",
+    "relUrl": "/examples/bpmn/overlays#usage-summary"
+  },"340": {
+    "doc": "Overlays",
+    "title": "Setting up bpmn-js",
+    "content": "Grab bpmn-js pre-packaged or via npm: . To use overlays and other services provided by bpmn-js instantiate bpmn-js (this time the viewer) via . var bpmnViewer = new BpmnViewer({ container: '#canvas', width: '100%', height: '100%' }); . Import a BPMN 2.0 diagram and add the overlays in the done callback: . await bpmnViewer.importXML(diagramXML); // retrieve services and work with them bpmnViewer.get('overlays').add(...); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/overlays#setting-up-bpmn-js",
+    "relUrl": "/examples/bpmn/overlays#setting-up-bpmn-js"
+  },"341": {
+    "doc": "Overlays",
+    "title": "Building the Project",
+    "content": "Initialize the project dependencies via . npm install . To create the sample distribution in the dist folder run . npm run all . To bootstrap a development setup that spawns a small webserver and rebuilds your app on changes run . npm run dev . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/overlays#building-the-project",
+    "relUrl": "/examples/bpmn/overlays#building-the-project"
+  },"342": {
+    "doc": "palette.changed",
+    "title": "palette.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/palette-changed",
+    "relUrl": "/events/common-events/palette-changed"
+  },"343": {
+    "doc": "palette.create",
+    "title": "palette.create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/palette-create",
+    "relUrl": "/events/common-events/palette-create"
+  },"344": {
+    "doc": "palette.getProviders",
+    "title": "palette.getProviders",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/palette-getProviders",
+    "relUrl": "/events/common-events/palette-getProviders"
+  },"345": {
+    "doc": "paletteProvider",
+    "title": "paletteProvider",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/palette-provider",
+    "relUrl": "/modules/bpmn-modules/palette-provider"
+  },"346": {
+    "doc": "palette",
+    "title": "palette",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/palette",
+    "relUrl": "/modules/common-modules/palette"
+  },"347": {
+    "doc": "Palette",
+    "title": "Palette",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/components/palette",
+    "relUrl": "/general/components/palette"
+  },"348": {
+    "doc": "pathMap",
+    "title": "pathMap",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/path-map",
+    "relUrl": "/modules/bpmn-modules/path-map"
+  },"349": {
+    "doc": "popupMenu",
+    "title": "popupMenu",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/popup-menu",
+    "relUrl": "/modules/common-modules/popup-menu"
+  },"350": {
+    "doc": "popupMenu.close",
+    "title": "popupMenu.close",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/popupMenu-close",
+    "relUrl": "/events/common-events/popupMenu-close"
+  },"351": {
+    "doc": "popupMenu.getProviders.[providerID]",
+    "title": "popupMenu.getProviders.[providerID]",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/popupMenu-getProviders-providerID",
+    "relUrl": "/events/common-events/popupMenu-getProviders-providerID"
+  },"352": {
+    "doc": "popupMenu.open",
+    "title": "popupMenu.open",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/popupMenu-open",
+    "relUrl": "/events/common-events/popupMenu-open"
+  },"353": {
+    "doc": "Pre-packaged",
+    "title": "Pre-packaged",
+    "content": "This example showcases how to use the pre-packaged version(s) of bpmn-js. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/pre-packaged",
+    "relUrl": "/examples/bpmn/pre-packaged"
+  },"354": {
+    "doc": "Pre-packaged",
+    "title": "About",
+    "content": "We provide pre-packaged versions of our toolkit via unpkg. This example shows how to embed these resources to integrate a BPMN viewer or editor into a website. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/pre-packaged#about",
+    "relUrl": "/examples/bpmn/pre-packaged#about"
+  },"355": {
+    "doc": "Pre-packaged",
+    "title": "Embed pre-packaged Assets",
+    "content": "Download or simply include the relevant dependencies into your website: . Viewer . &lt;script src=\"https://unpkg.com/bpmn-js@7.3.0/dist/bpmn-viewer.development.js\"&gt;&lt;/script&gt; . Download the complete viewer example. Modeler . &lt;!-- necessary stylesheets --&gt; &lt;link rel=\"stylesheet\" href=\"https://unpkg.com/bpmn-js@7.3.0/dist/assets/diagram-js.css\" /&gt; &lt;link rel=\"stylesheet\" href=\"https://unpkg.com/bpmn-js@7.3.0/dist/assets/bpmn-font/css/bpmn.css\" /&gt; &lt;script src=\"https://unpkg.com/bpmn-js@7.3.0/dist/bpmn-modeler.development.js\"&gt;&lt;/script&gt; . Download the complete modeler example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/pre-packaged#embed-pre-packaged-assets",
+    "relUrl": "/examples/bpmn/pre-packaged#embed-pre-packaged-assets"
+  },"356": {
+    "doc": "Pre-packaged",
+    "title": "Use the Library",
+    "content": "The library is bundled as an UMD bundle and binds itself to the global BpmnJS variable. var bpmnJS = new BpmnJS({ container: '#canvas' }); try { await bpmnJS.importXML(someDiagram); console.log('success!'); viewer.get('canvas').zoom('fit-viewport'); } catch (err) { console.error('something went wrong:', err); } . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/pre-packaged#use-the-library",
+    "relUrl": "/examples/bpmn/pre-packaged#use-the-library"
+  },"357": {
+    "doc": "previewSupport",
+    "title": "previewSupport",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/preview-support",
+    "relUrl": "/modules/common-modules/preview-support"
+  },"358": {
+    "doc": "Properties Panel Extension",
+    "title": "Properties Panel Extension",
+    "content": "This example shows how to extend the bpmn-js-properties-panel with custom properties. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel-extension",
+    "relUrl": "/examples/bpmn/properties-panel-extension"
+  },"359": {
+    "doc": "Properties Panel Extension",
+    "title": "About",
+    "content": "If you need more information about setting up take look at the basic properties example first. In this example we extend the properties panel to allow editing a magic:spell property on all start events. To achieve that we will walk through the following steps: . | Add a tab called “Magic” to contain the property | Add a group called “Black Magic” to this tab | Add a “spell” text input field to this group | Create a new moddle extension | . The property magic:spell will be persisted as an extension as part of the BPMN 2.0 document: . &lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt; &lt;bpmn2:definitions ... xmlns:magic=\"http://magic\" id=\"sample-diagram\"&gt; &lt;bpmn2:process id=\"Process_1\"&gt; &lt;bpmn2:startEvent id=\"StartEvent_1\" magic:spell=\"WOOO ZAAAA\" /&gt; &lt;/bpmn2:process&gt; ... &lt;/bpmn2:definitions&gt; . Let us look into all the necessary steps in detail. Here’s the repository for this example. Create a Properties Provider . The first step to a custom property is to create your own PropertiesProvider. The provider defines which properties are available and how they are organized in the panel using tabs, groups and input elements. We created the MagicPropertiesProvider which exposes all basic BPMN properties (via a “general” tab) as well as the “magic” tab. function MagicPropertiesProvider(eventBus, bpmnFactory, elementRegistry) { ... this.getTabs = function(element) { ... // The \"magic\" tab var magicTab = { id: 'magic', label: 'Magic', groups: createMagicTabGroups(element, elementRegistry) }; // All avaliable tabs return [ generalTab, magicTab ]; }; } . Define a Group . As part of the properties provider we define the groups for the magic tab, too: . // Require your custom property entries. // The entry is a text input field with logic attached to create, // update and delete the \"spell\" property. var spellProps = require('./parts/SpellProps'); // Create the custom magic tab function createMagicTabGroups(element, elementRegistry) { // Create a group called \"Black Magic\". var blackMagicGroup = { id: 'black-magic', label: 'Black Magic', entries: [] }; // Add the spell props to the black magic group. spellProps(blackMagicGroup, element); return [ blackMagicGroup ]; } . Define an Entry . The “spell” entry is defined in SpellProps. We reuse EntryFactory#textField to create a text field for the property. Note that we make sure that the entry is shown if a start event is selected: . var entryFactory = require('bpmn-js-properties-panel/lib/factory/EntryFactory'); var is = require('bpmn-js/lib/util/ModelUtil').is; module.exports = function(group, element) { // only return an entry, if the currently selected element is a start event if (is(element, 'bpmn:StartEvent')) { group.entries.push(entryFactory.textField({ id : 'spell', description : 'Apply a black magic spell', label : 'Spell', modelProperty : 'spell' })); } }; . You can look into the EntryFactory to find many other useful reusable form input components. You can also go further and define what happens if you enter text in an input field and what is shown in it if the element is selected. To do so you can override entry#set and entry#get methods. A good example for this is DocumentationProps. To get a better understand of the lifecycle of updating elements and the properties panel this forum post may be helpful. Create a Moddle Extension . The second step to create a custom property is to create a moddle extension so that moddle is aware of our new property “spell”. This is important for moddle to write and read BPMN XML containing custom properties. The extension is basically a json descriptor file magic.json containing a definition of bpmn:StartEvent#spell: . { \"name\": \"Magic\", \"prefix\": \"magic\", \"uri\": \"http://magic\", \"xml\": { \"tagAlias\": \"lowerCase\" }, \"associations\": [], \"types\": [ { \"name\": \"BewitchedStartEvent\", \"extends\": [ \"bpmn:StartEvent\" ], \"properties\": [ { \"name\": \"spell\", \"isAttr\": true, \"type\": \"String\" }, ] }, ] } . In this file we define the new type BewitchesStartEvent which extends the type bpmn:StartEvent and adds the “spell” property as an attribute to it. Please note: It is necessary to define in the descriptor which element you want to extend. If you want the property to be valid for all bpmn elements, you can extend bpmn:BaseElement: ... { \"name\": \"BewitchedStartEvent\", \"extends\": [ \"bpmn:BaseElement\" ], ... }, . Plugging Everything together . To ship our custom extension with the properties panel we have to wire both the moddle extension and the properties provider when creating the modeler. var propertiesPanelModule = require('bpmn-js-properties-panel'), propertiesProviderModule = require('./provider/magic'), magicModdleDescriptor = require('./descriptors/magic'); var canvas = $('#js-canvas'); var bpmnModeler = new BpmnModeler({ container: canvas, propertiesPanel: { parent: '#js-properties-panel' }, additionalModules: [ propertiesPanelModule, propertiesProviderModule ], moddleExtensions: { magic: magicModdleDescriptor } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel-extension#about",
+    "relUrl": "/examples/bpmn/properties-panel-extension#about"
+  },"360": {
+    "doc": "Properties Panel Extension",
+    "title": "Running the Example",
+    "content": "Install all required dependencies: . npm install npm install -g grunt-cli . Build and run the project . grunt auto-build . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel-extension#running-the-example",
+    "relUrl": "/examples/bpmn/properties-panel-extension#running-the-example"
+  },"361": {
+    "doc": "Properties Panel",
+    "title": "Properties Panel",
+    "content": "This example uses bpmn-js and bpmn-js-properties-panel. It implements a BPMN 2.0 modeler that allows you to edit execution related properties via a properties panel. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel",
+    "relUrl": "/examples/bpmn/properties-panel"
+  },"362": {
+    "doc": "Properties Panel",
+    "title": "About",
+    "content": "This example is a node-style web application that builds a user interface around the bpmn-js BPMN 2.0 modeler. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel#about",
+    "relUrl": "/examples/bpmn/properties-panel#about"
+  },"363": {
+    "doc": "Properties Panel",
+    "title": "Usage",
+    "content": "Add the properties panel to your project: . npm install --save bpmn-js-properties-panel . Additionally, if you’d like to use Camunda BPM execution related properties, include the camunda-bpmn-moddle dependency which tells the modeler about camunda:XXX extension properties: . npm install --save camunda-bpmn-moddle . Now extend the bpmn-js modeler with two properties panel related modules, the panel itself and a provider module that controls which properties are visible for each element. Additionally you must pass an element via propertiesPanel.parent into which the properties panel will be rendered (cf. app/index.js for details). var propertiesPanelModule = require('bpmn-js-properties-panel'), // providing camunda executable properties, too propertiesProviderModule = require('bpmn-js-properties-panel/lib/provider/camunda'), camundaModdleDescriptor = require('camunda-bpmn-moddle/resources/camunda'); var bpmnModeler = new BpmnModeler({ container: '#js-canvas', propertiesPanel: { parent: '#js-properties-panel' }, additionalModules: [ propertiesPanelModule, propertiesProviderModule ], // needed if you'd like to maintain camunda:XXX properties in the properties panel moddleExtensions: { camunda: camundaModdleDescriptor } }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel#usage",
+    "relUrl": "/examples/bpmn/properties-panel#usage"
+  },"364": {
+    "doc": "Properties Panel",
+    "title": "Building the Example",
+    "content": "You need a NodeJS development stack with npm and installed to build the project. To install all project dependencies execute . npm install . Build the example using browserify via . npm run all . You may also spawn a development setup by executing . npm run dev . Both tasks generate the distribution ready client-side modeler application into the dist folder. Serve the application locally or via a web server (nginx, apache, embedded). ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/properties-panel#building-the-example",
+    "relUrl": "/examples/bpmn/properties-panel#building-the-example"
+  },"365": {
+    "doc": "Properties Panel",
+    "title": "Properties Panel",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/components/properties-panel",
+    "relUrl": "/general/components/properties-panel"
+  },"366": {
+    "doc": "removeElementBehavior",
+    "title": "removeElementBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/remove-element-behavior",
+    "relUrl": "/modules/bpmn-modules/remove-element-behavior"
+  },"367": {
+    "doc": "removeParticipantBehavior",
+    "title": "removeParticipantBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/remove-participant-behavior",
+    "relUrl": "/modules/bpmn-modules/remove-participant-behavior"
+  },"368": {
+    "doc": "render.connection",
+    "title": "render.connection",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/render-connection",
+    "relUrl": "/events/common-events/render-connection"
+  },"369": {
+    "doc": "render.getConnectionPath",
+    "title": "render.getConnectionPath",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/render-getConnectionPath",
+    "relUrl": "/events/common-events/render-getConnectionPath"
+  },"370": {
+    "doc": "render.getShapePath",
+    "title": "render.getShapePath",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/render-getShapePath",
+    "relUrl": "/events/common-events/render-getShapePath"
+  },"371": {
+    "doc": "render.shape",
+    "title": "render.shape",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/render-shape",
+    "relUrl": "/events/common-events/render-shape"
+  },"372": {
+    "doc": "replaceConnectionBehavior",
+    "title": "replaceConnectionBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/replace-connection-behavior",
+    "relUrl": "/modules/bpmn-modules/replace-connection-behavior"
+  },"373": {
+    "doc": "replaceElementBehavior",
+    "title": "replaceElementBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/replace-element-behavior",
+    "relUrl": "/modules/bpmn-modules/replace-element-behavior"
+  },"374": {
+    "doc": "replaceMenuProvider",
+    "title": "replaceMenuProvider",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/replace-menu-provider",
+    "relUrl": "/modules/bpmn-modules/replace-menu-provider"
+  },"375": {
+    "doc": "replace",
+    "title": "replace",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/replace",
+    "relUrl": "/modules/common-modules/replace"
+  },"376": {
+    "doc": "resizeBehavior",
+    "title": "resizeBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/resize-behavior",
+    "relUrl": "/modules/bpmn-modules/resize-behavior"
+  },"377": {
+    "doc": "resizeHandles",
+    "title": "resizeHandles",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/resize-handles",
+    "relUrl": "/modules/common-modules/resize-handles"
+  },"378": {
+    "doc": "resizeLaneBehavior",
+    "title": "resizeLaneBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/resize-lane-behavior",
+    "relUrl": "/modules/bpmn-modules/resize-lane-behavior"
+  },"379": {
+    "doc": "resizePreview",
+    "title": "resizePreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/resize-preview",
+    "relUrl": "/modules/common-modules/resize-preview"
+  },"380": {
+    "doc": "resizeSnapping",
+    "title": "resizeSnapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/resize-snapping",
+    "relUrl": "/modules/common-modules/resize-snapping"
+  },"381": {
+    "doc": "resize",
+    "title": "resize",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/resize",
+    "relUrl": "/modules/common-modules/resize"
+  },"382": {
+    "doc": "root.add",
+    "title": "root.add",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/root-add",
+    "relUrl": "/events/common-events/root-add"
+  },"383": {
+    "doc": "root.added",
+    "title": "root.added",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/root-added",
+    "relUrl": "/events/common-events/root-added"
+  },"384": {
+    "doc": "root.changed",
+    "title": "root.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/root-changed",
+    "relUrl": "/events/common-events/root-changed"
+  },"385": {
+    "doc": "rootElementReferenceBehavior",
+    "title": "rootElementReferenceBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/root-element-reference-behavior",
+    "relUrl": "/modules/bpmn-modules/root-element-reference-behavior"
+  },"386": {
+    "doc": "root.remove",
+    "title": "root.remove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/root-remove",
+    "relUrl": "/events/common-events/root-remove"
+  },"387": {
+    "doc": "root.removed",
+    "title": "root.removed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/root-removed",
+    "relUrl": "/events/common-events/root-removed"
+  },"388": {
+    "doc": "rules",
+    "title": "rules",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/rules",
+    "relUrl": "/modules/common-modules/rules"
+  },"389": {
+    "doc": "saveSVG.done",
+    "title": "saveSVG.done",
+    "content": "This event is fired by saveSVG API with data containing svg and error after a diagram SVG export ends. This allows users to listen whenever an SVG export of a diagram was executed or to check raised errors. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveSVG-done",
+    "relUrl": "/events/bpmn-events/saveSVG-done"
+  },"390": {
+    "doc": "saveSVG.done",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('saveSVG.done', (data) =&gt; { const { error, svg } = data; // check for errors being raised during the export if (error) { return console.error('An error while exporting diagram raised:', error); } // check the SVG after the export console.log('Diagram successfully exported to SVG, contents:', svg); }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveSVG-done#example-usage",
+    "relUrl": "/events/bpmn-events/saveSVG-done#example-usage"
+  },"391": {
+    "doc": "saveSVG.done",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | error: Error An error that got raised during the export. | svg: String The SVG string that is exported. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveSVG-done#data",
+    "relUrl": "/events/bpmn-events/saveSVG-done#data"
+  },"392": {
+    "doc": "saveSVG.start",
+    "title": "saveSVG.start",
+    "content": "This event is fired by saveSVG API. It allows the user to listen when a diagram export to SVG has started. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveSVG-start",
+    "relUrl": "/events/bpmn-events/saveSVG-start"
+  },"393": {
+    "doc": "saveSVG.start",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('saveSVG.start', () =&gt; { console.log('Diagram is going to be exported as SVG!'); }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveSVG-start#example-usage",
+    "relUrl": "/events/bpmn-events/saveSVG-start#example-usage"
+  },"394": {
+    "doc": "saveSVG.start",
+    "title": "Data",
+    "content": "This event offers no additional data. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveSVG-start#data",
+    "relUrl": "/events/bpmn-events/saveSVG-start#data"
+  },"395": {
+    "doc": "saveSVG",
+    "title": "saveSVG",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/saveSVG",
+    "relUrl": "/general/api-reference/bpmn-js/saveSVG"
+  },"396": {
+    "doc": "saveXML.done",
+    "title": "saveXML.done",
+    "content": "This event is fired by saveXML API with data containing xml after a diagram export ends. This allows users to listen whenever a diagram export to BPMN 2.0 XML was successful. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-done",
+    "relUrl": "/events/bpmn-events/saveXML-done"
+  },"397": {
+    "doc": "saveXML.done",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('saveXML.done', (data) =&gt; { const { xml } = data; // this is the XML that is exported console.log('Diagram has been exported, contents:', xml); }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-done#example-usage",
+    "relUrl": "/events/bpmn-events/saveXML-done#example-usage"
+  },"398": {
+    "doc": "saveXML.done",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | xml: String The exported BPMN 2.0 XML. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-done#data",
+    "relUrl": "/events/bpmn-events/saveXML-done#data"
+  },"399": {
+    "doc": "saveXML.serialized",
+    "title": "saveXML.serialized",
+    "content": "This event is fired by saveXML API with data containing xml after a diagram was serialized to BPMN 2.0 XML. It allows users to hook into and manipulate the serialized XML before it got exported. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-serialized",
+    "relUrl": "/events/bpmn-events/saveXML-serialized"
+  },"400": {
+    "doc": "saveXML.serialized",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('saveXML.serialized', (data) =&gt; { const { xml } = data; // this is the XML that is about to get exported const newXML = xml.replace('StartEvent_1', 'StartEvent_2'); return newXML; // now this new XML will be exported instead }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-serialized#example-usage",
+    "relUrl": "/events/bpmn-events/saveXML-serialized#example-usage"
+  },"401": {
+    "doc": "saveXML.serialized",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | xml: String The serialized BPMN 2.0 XML. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-serialized#data",
+    "relUrl": "/events/bpmn-events/saveXML-serialized#data"
+  },"402": {
+    "doc": "saveXML.start",
+    "title": "saveXML.start",
+    "content": "This event is fired by saveXML API with data containing definitions before the export of the current diagram state begins. This allows users to hook into and manipulate the to be exported diagram. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-start",
+    "relUrl": "/events/bpmn-events/saveXML-start"
+  },"403": {
+    "doc": "saveXML.start",
+    "title": "Example Usage",
+    "content": "// modeler is an instance of BpmnJS Modeler. modeler.on('saveXML.start', (data) =&gt; { const { definitions } = data; // this is the definitions that is about to get exported as XML const rootElement = definitions.get('rootElements')[0]; // retrieve root element of the diagram if (!rootElement.isExecutable) { rootElement.isExecutable = true; // ensure we always have executable processes } return definitions; // now the updated definitions will be exported instead }); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-start#example-usage",
+    "relUrl": "/events/bpmn-events/saveXML-start#example-usage"
+  },"404": {
+    "doc": "saveXML.start",
+    "title": "Data",
+    "content": "The data fired with this event contains these fields: . | definitions: ModdleElement The definitions moddle element that is about to be exported as BPMN 2.0 XML. | . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/bpmn-events/saveXML-start#data",
+    "relUrl": "/events/bpmn-events/saveXML-start#data"
+  },"405": {
+    "doc": "saveXML",
+    "title": "saveXML",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/api-reference/bpmn-js/saveXML",
+    "relUrl": "/general/api-reference/bpmn-js/saveXML"
+  },"406": {
+    "doc": "searchPad",
+    "title": "searchPad",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/search-pad",
+    "relUrl": "/modules/common-modules/search-pad"
+  },"407": {
+    "doc": "searchPad.cleared",
+    "title": "searchPad.cleared",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/searchPad-cleared",
+    "relUrl": "/events/common-events/searchPad-cleared"
+  },"408": {
+    "doc": "searchPad.closed",
+    "title": "searchPad.closed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/searchPad-closed",
+    "relUrl": "/events/common-events/searchPad-closed"
+  },"409": {
+    "doc": "searchPad.opened",
+    "title": "searchPad.opened",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/searchPad-opened",
+    "relUrl": "/events/common-events/searchPad-opened"
+  },"410": {
+    "doc": "searchPad.preselected",
+    "title": "searchPad.preselected",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/searchPad-preselected",
+    "relUrl": "/events/common-events/searchPad-preselected"
+  },"411": {
+    "doc": "searchPad.selected",
+    "title": "searchPad.selected",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/searchPad-selected",
+    "relUrl": "/events/common-events/searchPad-selected"
+  },"412": {
+    "doc": "selectionBehaviors",
+    "title": "selectionBehaviors",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/selection-behaviors",
+    "relUrl": "/modules/common-modules/selection-behaviors"
+  },"413": {
+    "doc": "selection.changed",
+    "title": "selection.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/selection-changed",
+    "relUrl": "/events/common-events/selection-changed"
+  },"414": {
+    "doc": "selectionVisuals",
+    "title": "selectionVisuals",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/selection-visuals",
+    "relUrl": "/modules/common-modules/selection-visuals"
+  },"415": {
+    "doc": "selection",
+    "title": "selection",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/selection",
+    "relUrl": "/modules/common-modules/selection"
+  },"416": {
+    "doc": "shape.add",
+    "title": "shape.add",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/shape-add",
+    "relUrl": "/events/common-events/shape-add"
+  },"417": {
+    "doc": "shape.added",
+    "title": "shape.added",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/shape-added",
+    "relUrl": "/events/common-events/shape-added"
+  },"418": {
+    "doc": "shape.append",
+    "title": "shape.append",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-append",
+    "relUrl": "/commands/common-commands/shape-append"
+  },"419": {
+    "doc": "shape.changed",
+    "title": "shape.changed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/shape-changed",
+    "relUrl": "/events/common-events/shape-changed"
+  },"420": {
+    "doc": "shape.create",
+    "title": "shape.create",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-create",
+    "relUrl": "/commands/common-commands/shape-create"
+  },"421": {
+    "doc": "shape.delete",
+    "title": "shape.delete",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-delete",
+    "relUrl": "/commands/common-commands/shape-delete"
+  },"422": {
+    "doc": "shape.move",
+    "title": "shape.move",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-move",
+    "relUrl": "/commands/common-commands/shape-move"
+  },"423": {
+    "doc": "shape.remove",
+    "title": "shape.remove",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/shape-remove",
+    "relUrl": "/events/common-events/shape-remove"
+  },"424": {
+    "doc": "shape.removed",
+    "title": "shape.removed",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/shape-removed",
+    "relUrl": "/events/common-events/shape-removed"
+  },"425": {
+    "doc": "shape.replace",
+    "title": "shape.replace",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-replace",
+    "relUrl": "/commands/common-commands/shape-replace"
+  },"426": {
+    "doc": "shape.resize",
+    "title": "shape.resize",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-resize",
+    "relUrl": "/commands/common-commands/shape-resize"
+  },"427": {
+    "doc": "shape.toggleCollapse",
+    "title": "shape.toggleCollapse",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/shape-toggleCollapse",
+    "relUrl": "/commands/common-commands/shape-toggleCollapse"
+  },"428": {
+    "doc": "snapping",
+    "title": "snapping",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/snapping",
+    "relUrl": "/modules/common-modules/snapping"
+  },"429": {
+    "doc": "spaceToolBehavior",
+    "title": "spaceToolBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/space-tool-behavior",
+    "relUrl": "/modules/bpmn-modules/space-tool-behavior"
+  },"430": {
+    "doc": "spaceToolPreview",
+    "title": "spaceToolPreview",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/space-tool-preview",
+    "relUrl": "/modules/common-modules/space-tool-preview"
+  },"431": {
+    "doc": "spaceTool",
+    "title": "spaceTool",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/space-tool",
+    "relUrl": "/modules/common-modules/space-tool"
+  },"432": {
+    "doc": "spaceTool.getMinDimensions",
+    "title": "spaceTool.getMinDimensions",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/spaceTool-getMinDimensions",
+    "relUrl": "/events/common-events/spaceTool-getMinDimensions"
+  },"433": {
+    "doc": "spaceTool",
+    "title": "spaceTool",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/commands/common-commands/spaceTool",
+    "relUrl": "/commands/common-commands/spaceTool"
+  },"434": {
+    "doc": "Starter",
+    "title": "Starter",
+    "content": "Try out our toolkit by downloading the viewer or modeler example. Here’s the repository for this example. Screenshot of the viewer example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/starter",
+    "relUrl": "/examples/bpmn/starter"
+  },"435": {
+    "doc": "styles",
+    "title": "styles",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/styles",
+    "relUrl": "/modules/common-modules/styles"
+  },"436": {
+    "doc": "subProcessStartEventBehavior",
+    "title": "subProcessStartEventBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/sub-process-start-event-behavior",
+    "relUrl": "/modules/bpmn-modules/sub-process-start-event-behavior"
+  },"437": {
+    "doc": "textRenderer",
+    "title": "textRenderer",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/text-renderer",
+    "relUrl": "/modules/bpmn-modules/text-renderer"
+  },"438": {
+    "doc": "Theming",
+    "title": "Theming",
+    "content": "This example showcases the different aspects of theming bpmn-js. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/theming",
+    "relUrl": "/examples/bpmn/theming"
+  },"439": {
+    "doc": "Theming",
+    "title": "Theming bpmn-js",
+    "content": "Custom Renderer . This example uses bpmn-js-sketchy to replace the default renderer. You can also roll your own renderer as shown in the custom elements example or bpmn-js-nyan. Custom Font . You can specify which font bpmn-js should use: . var bpmnViewer = new CustomBpmnJS({ // ... textRenderer: { defaultStyle: { fontFamily: '\"Nothing You Could Do\"' } } }); . Note: Make sure the font has been loaded before rendering a diagram. Custom Colors . Customizing the colors is very simple: . var bpmnViewer = new CustomBpmnJS({ // ... bpmnRenderer: { defaultFillColor: '#333', defaultStrokeColor: '#fff' } }); . Custom CSS . bpmn-js comes with a default stylesheet. Of course you can override any of these styles. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/theming#theming-bpmn-js",
+    "relUrl": "/examples/bpmn/theming#theming-bpmn-js"
+  },"440": {
+    "doc": "Theming",
+    "title": "Run this example",
+    "content": "npm install npm run all . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/theming#run-this-example",
+    "relUrl": "/examples/bpmn/theming#run-this-example"
+  },"441": {
+    "doc": "toggleElementCollapseBehavior",
+    "title": "toggleElementCollapseBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/toggle-element-collapse-behavior",
+    "relUrl": "/modules/bpmn-modules/toggle-element-collapse-behavior"
+  },"442": {
+    "doc": "tool-manager.update",
+    "title": "tool-manager.update",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/events/common-events/tool-manager-update",
+    "relUrl": "/events/common-events/tool-manager-update"
+  },"443": {
+    "doc": "toolManager",
+    "title": "toolManager",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/tool-manager",
+    "relUrl": "/modules/common-modules/tool-manager"
+  },"444": {
+    "doc": "tooltips",
+    "title": "tooltips",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/tooltips",
+    "relUrl": "/modules/common-modules/tooltips"
+  },"445": {
+    "doc": "touchFix",
+    "title": "touchFix",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/touch-fix",
+    "relUrl": "/modules/common-modules/touch-fix"
+  },"446": {
+    "doc": "touchInteractionEvents",
+    "title": "touchInteractionEvents",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/touch-interaction-events",
+    "relUrl": "/modules/common-modules/touch-interaction-events"
+  },"447": {
+    "doc": "Transaction Boundaries",
+    "title": "Transaction Boundaries",
+    "content": "This example uses bpmn-js and bpmn-js-transaction-boundaries. It implements a BPMN 2.0 modeler that allows you to visualize transaction boundaries in the diagram. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/transaction-boundaries",
+    "relUrl": "/examples/bpmn/transaction-boundaries"
+  },"448": {
+    "doc": "Transaction Boundaries",
+    "title": "Usage",
+    "content": "Add bpmn-js-transaction-boundaries to your project: . npm install --save bpmn-js-transaction-boundaries . Now extend the bpmn-js modeler with the transaction boundaries module (cf. app/index.js for details). import BpmnModeler from 'bpmn-js/lib/Modeler'; import transactionBoundariesModule from 'bpmn-js-transaction-boundaries'; var canvas = $('#js-canvas'); var bpmnModeler = new BpmnModeler({ container: canvas, additionalModules: [ transactionBoundariesModule ] }); await bpmnModeler.importXML(xml); var transactionBoundaries = bpmnModeler.get('transactionBoundaries'); transactionBoundaries.show(); . ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/transaction-boundaries#usage",
+    "relUrl": "/examples/bpmn/transaction-boundaries#usage"
+  },"449": {
+    "doc": "Transaction Boundaries",
+    "title": "Building the Example",
+    "content": "You need a NodeJS development stack with npm installed to build the project. To install all project dependencies execute . npm install . Build the example using browserify via . npm run all . You may also spawn a development setup by executing . npm run dev . Both tasks generate the distribution ready client-side modeler application into the dist folder. Serve the application locally or via a web server (nginx, apache, embedded). ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/transaction-boundaries#building-the-example",
+    "relUrl": "/examples/bpmn/transaction-boundaries#building-the-example"
+  },"450": {
+    "doc": "unclaimIdBehavior",
+    "title": "unclaimIdBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/unclaim-id-behavior",
+    "relUrl": "/modules/bpmn-modules/unclaim-id-behavior"
+  },"451": {
+    "doc": "unsetDefaultFlowBehavior",
+    "title": "unsetDefaultFlowBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/unset-default-flow-behavior",
+    "relUrl": "/modules/bpmn-modules/unset-default-flow-behavior"
+  },"452": {
+    "doc": "updateFlowNodeRefsBehavior",
+    "title": "updateFlowNodeRefsBehavior",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/bpmn-modules/update-flow-node-refs-behavior",
+    "relUrl": "/modules/bpmn-modules/update-flow-node-refs-behavior"
+  },"453": {
+    "doc": "URL Viewer",
+    "title": "URL Viewer",
+    "content": "This example uses bpmn-js to implement a simple viewer for BPMN 2.0 process diagrams that can be loaded via their URL. Try out. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/url-viewer",
+    "relUrl": "/examples/bpmn/url-viewer"
+  },"454": {
+    "doc": "URL Viewer",
+    "title": "About",
+    "content": "The demo includes the pre-packaged BPMN viewer. It allows the user to input a url to fetch a process diagram from. Make sure you serve the application via a web server (nginx, apache, embedded) and ensure that the diagrams you want to access are either on the same server or CORS enabled. Here’s the repository for this example. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/url-viewer#about",
+    "relUrl": "/examples/bpmn/url-viewer#about"
+  },"455": {
+    "doc": "URL Viewer",
+    "title": "Run the Example",
+    "content": "Download and open the example HTML page. ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/examples/bpmn/url-viewer#run-the-example",
+    "relUrl": "/examples/bpmn/url-viewer#run-the-example"
+  },"456": {
+    "doc": "Wrench Menu",
+    "title": "Wrench Menu",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/general/components/wrench-menu",
+    "relUrl": "/general/components/wrench-menu"
+  },"457": {
+    "doc": "zoomScroll",
+    "title": "zoomScroll",
+    "content": " ",
+    "url": "https://geeestar.github.io/docs.bpmn.io/modules/common-modules/zoom-scroll",
+    "relUrl": "/modules/common-modules/zoom-scroll"
+  }
+}
