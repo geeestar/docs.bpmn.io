@@ -1,9 +1,11 @@
 title: bpmn.io Docs
 remote_theme: just-the-docs/just-the-docs
 
+url: "https://geeestar.github.io/docs.bpmn.io"
+
 baseurl: "/"
 
-url: "https://geeestar.github.io/docs.bpmn.io"
+relative_url: "/"
 
 logo: "/assets/images/bpmn-io.svg"
 
